@@ -1,68 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Datafortress.cloud</title>
+    <title>Blogs on Datafortress.cloud</title>
     <link>https://justinguese.github.io/blog/</link>
-    <description>Recent content in Blog on Datafortress.cloud</description>
+    <description>Recent content in Blogs on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 07:10:46 +0200</lastBuildDate>
     
 	<atom:link href="https://justinguese.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Economics Meter</title>
-      <link>https://justinguese.github.io/blog/economics-meter/</link>
-      <pubDate>Mon, 24 Sep 2018 11:11:24 +0600</pubDate>
+      <title>Face Detection using MTCNN</title>
+      <link>https://justinguese.github.io/blog/face-detection-using-mtcnn/</link>
+      <pubDate>Mon, 08 Jun 2020 07:10:46 +0200</pubDate>
       
-      <guid>https://justinguese.github.io/blog/economics-meter/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://justinguese.github.io/blog/face-detection-using-mtcnn/</guid>
+      <description>What is MTCNN 
+MTCNN is a python (pip) library written by Github user ipacz, which implements the [paper Zhang, Kaipeng et al.</description>
     </item>
     
     <item>
-      <title>Money and Money</title>
-      <link>https://justinguese.github.io/blog/money-and-money/</link>
-      <pubDate>Mon, 24 Sep 2018 11:10:46 +0600</pubDate>
+      <title>Top 6 best Cloud Storage services – Free, Paid and for Businesses</title>
+      <link>https://justinguese.github.io/blog/top-6-cloud-storage-solutions/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0200</pubDate>
       
-      <guid>https://justinguese.github.io/blog/money-and-money/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://justinguese.github.io/blog/top-6-cloud-storage-solutions/</guid>
+      <description>Why should I store my data in the cloud?</description>
     </item>
     
     <item>
-      <title>Finance My Business</title>
-      <link>https://justinguese.github.io/blog/finance-my-business/</link>
+      <title>How to integrate 3D models into websites and Quick View for Android and iOS devices</title>
+      <link>https://justinguese.github.io/blog/3d-model-integration/</link>
       <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
       
-      <guid>https://justinguese.github.io/blog/finance-my-business/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Business Magnate</title>
-      <link>https://justinguese.github.io/blog/business-magnate/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>https://justinguese.github.io/blog/business-magnate/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Cool the Audits</title>
-      <link>https://justinguese.github.io/blog/cool-the-audits/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      
-      <guid>https://justinguese.github.io/blog/cool-the-audits/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>New Hugo Post</title>
-      <link>https://justinguese.github.io/blog/new-hugo-post/</link>
-      <pubDate>Sun, 23 Sep 2018 11:35:34 +0600</pubDate>
-      
-      <guid>https://justinguese.github.io/blog/new-hugo-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://justinguese.github.io/blog/3d-model-integration/</guid>
+      <description>Try it out: Rotate the 3D object below, or look at it in AR using your phone or even VR if a VR-glass is connected to your computer.</description>
     </item>
     
   </channel>
