@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2020 07:10:46 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2020 22:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The 5 typical applications of Augmented Reality</title>
+      <link>https://www.datafortress.cloud/blog/the-5-typical-applications-of-augmented-reality/</link>
+      <pubDate>Sun, 16 Aug 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/blog/the-5-typical-applications-of-augmented-reality/</guid>
+      <description>What is AR? Why do I need Augmented Reality as a company?</description>
+    </item>
     
     <item>
       <title>Face Detection using MTCNN</title>

@@ -6,10 +6,19 @@
     <description>Recent content in Augmented Reality on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 24 Sep 2018 11:10:07 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2020 22:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/tags/augmented-reality/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Die Top 5 typischen Anwendungen für Augmented Reality</title>
+      <link>https://www.datafortress.cloud/de/blog/brauche-ich-als-firma-augmented-reality/</link>
+      <pubDate>Sun, 16 Aug 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/brauche-ich-als-firma-augmented-reality/</guid>
+      <description>Was ist AR? Warum brauche ich als Firma Augmented Reality?</description>
+    </item>
     
     <item>
       <title>Wie man 3D-Modelle in Websites und Schnellansichten für Android und iOS integriert</title>

@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jun 2020 07:10:46 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2020 22:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Augmented Reality</title>
+      <link>https://www.datafortress.cloud/tags/augmented-reality/</link>
+      <pubDate>Sun, 16 Aug 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/tags/augmented-reality/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Big Data</title>
@@ -98,15 +107,6 @@
       <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
       
       <guid>https://www.datafortress.cloud/tags/3d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Augmented Reality</title>
-      <link>https://www.datafortress.cloud/tags/augmented-reality/</link>
-      <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
-      
-      <guid>https://www.datafortress.cloud/tags/augmented-reality/</guid>
       <description></description>
     </item>
     
