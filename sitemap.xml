@@ -1,18 +1,482 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://www.datafortress.cloud/en/sitemap.xml</loc>
-		
-	   	<lastmod>2020-07-12T17:02:17+02:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://www.datafortress.cloud/de/sitemap.xml</loc>
-		
-	   	<lastmod>2020-07-12T17:02:17+02:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.datafortress.cloud/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/service/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/project/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/blog/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/team/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/contact/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/about/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/content/english/pages/impressum/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/content/english/pages/privacy-policy/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/service/cloud/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/service/data-science-data-engineering/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/service/financial-data-driven-planning/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/project/big-data-analytics/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/project/cloud-compliance/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/project/digital-twin/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/project/cloud-group-it/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/project/ar-porsche-viewer/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/project/porsche-ar-website/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/project/unraceable-virtual-reality-simulator/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/project/360-car-sales-virtual-testdrives/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/project/360-virtual-tours-real-estate/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/blog/face-detection-using-mtcnn/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/blog/top-6-cloud-storage-solutions/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/blog/3d-model-integration/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/service/virtual-augmented-reality/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/service/business-consulting1/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/categories/augmented-reality/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/categories/big-data/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/categories/business/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/categories/cloud/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/categories/computer-vision/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/categories/machine-learning/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/tags/3d/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/tags/augmented-reality/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/tags/big-data/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/tags/business/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/tags/cloud/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/tags/cloud-storage/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/tags/face-detection/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/tags/machine-learning/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/tags/mtcnn/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/tags/neuronal-networks/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/tags/storage/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/tags/websites/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/team/justin-guese/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/author/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/service/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/project/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/blog/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/team/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/contact/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/about/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/content/english/pages/impressum/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/content/english/pages/privacy-policy/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/service/cloud/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/service/data-science-data-engineering/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/service/financial-data-driven-planning/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/project/big-data-analytics/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/project/cloud-compliance/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/project/digital-twin/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/project/cloud-group-it/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/project/ar-porsche-viewer/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/project/porsche-ar-website/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/project/unraceable-virtual-reality-simulator/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/project/360-car-sales-virtual-testdrives/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/project/360-virtual-tours-real-estate/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/blog/face-detection-using-mtcnn/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/blog/top-6-cloud-storage-solutions/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/blog/3d-model-integration/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/service/virtual-augmented-reality/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/service/business-consulting1/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/author/justin-guese/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/categories/augmented-reality/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/categories/big-data/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/categories/business/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/categories/cloud/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/categories/computer-vision/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/categories/machine-learning/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/tags/3d/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/tags/augmented-reality/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/tags/big-data/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/tags/business/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/tags/cloud/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/tags/cloud-storage/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/tags/face-detection/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/tags/machine-learning/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/tags/mtcnn/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/tags/neuronal-networks/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/tags/storage/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/tags/websites/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/team/justin-guese/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/author/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.datafortress.cloud/de/author/justin-guese/</loc>
+  <lastmod>2020-08-17T15:46:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
