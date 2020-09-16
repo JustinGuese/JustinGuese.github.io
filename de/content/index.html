@@ -579,8 +579,6 @@
 
 <script src="https://www.datafortress.cloud/plugins/bootstrap/bootstrap.min.js"></script>
 
-<script src="https://www.datafortress.cloud/plugins/cookie-script/cookiescript.js"></script>
-
 <script src="https://www.datafortress.cloud/plugins/slick/slick.min.js"></script>
 
 <script src="https://www.datafortress.cloud/plugins/magnific-popup/magnific-popup.min.js"></script>
@@ -612,6 +610,25 @@
 	ga('create', 'UA-56269619-17', 'auto');
 	ga('send', 'pageview');
 </script>
+
+
+
+
+
+<button type="button" id="hs_remove_cookie_button"
+  style="background-color: #425b76; border: 1px solid #425b76;
+         border-radius: 3px; padding: 10px 16px; text-decoration: none; color: #fff;
+         font-family: inherit; font-size: inherit; font-weight: normal; line-height: inherit;
+         text-align: left; text-shadow: none;"
+  onClick="(function removeCookies(){
+    var _hsp = window._hsp = window._hsp || [];
+    _hsp.push(['revokeCookieConsent']);
+  })()"
+>
+  Remove cookies
+</button>
+
+
 
 
 </body>

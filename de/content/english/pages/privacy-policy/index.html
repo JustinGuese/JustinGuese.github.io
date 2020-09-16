@@ -245,9 +245,45 @@ Verantwortlicher für die Zwecke der Allgemeinen Datenschutzverordnung (GDPR), a
 <p>Email: <a href="mailto:info@datafortress.cloud">info@datafortress.cloud</a>
 Website:</p>
 <ol start="3">
-<li>Cookies
-Die Internetseiten der DataFortress.cloud verwenden Cookies. Cookies sind Textdateien, die über einen Internet-Browser in einem Computersystem gespeichert werden.</li>
+<li>Cookies</li>
 </ol>
+<p>Die Internetseiten der DataFortress.cloud verwenden Cookies. Cookies sind Textdateien, die über einen Internet-Browser in einem Computersystem gespeichert werden.</p>
+<table>
+<thead>
+<tr>
+<th>Cookie</th>
+<th>Description</th>
+<th>Duration</th>
+<th>Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>_ga</td>
+<td>This cookie is installed by Google Analytics. The cookie is used to calculate visitor, session, campaign data and keep track of site usage for the site&rsquo;s analytics report. The cookies store information anonymously and assign a randomly generated number to identify unique visitors.</td>
+<td>2 years</td>
+<td>Analytics</td>
+</tr>
+<tr>
+<td>_gid</td>
+<td>This cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the wbsite is doing. The data collected including the number visitors, the source where they have come from, and the pages viisted in an anonymous form.</td>
+<td>1 day</td>
+<td>Analytics</td>
+</tr>
+<tr>
+<td>_gat</td>
+<td>This cookies is installed by Google Universal Analytics to throttle the request rate to limit the colllection of data on high traffic sites.</td>
+<td>1 minute</td>
+<td>Performance</td>
+</tr>
+<tr>
+<td>CookieScriptConsent</td>
+<td>Needed to track cookie choice</td>
+<td>1 day</td>
+<td>Performance</td>
+</tr>
+</tbody>
+</table>
 <p>Viele Internetseiten und Server verwenden Cookies. Viele Cookies enthalten eine sogenannte Cookie-ID. Eine Cookie-ID ist eine eindeutige Kennung des Cookies. Sie besteht aus einer Zeichenfolge, durch die Internetseiten und Server dem spezifischen Internet-Browser zugeordnet werden können, in dem das Cookie gespeichert wurde. Auf diese Weise können besuchte Internetseiten und Server den einzelnen Browser des dats-Themas von anderen Internet-Browsern, die andere Cookies enthalten, unterscheiden. Ein spezifischer Internet-Browser kann anhand der eindeutigen Cookie-ID erkannt und identifiziert werden.</p>
 <p>Durch die Verwendung von Cookies kann die DataFortress.cloud den Benutzern dieser Website benutzerfreundlichere Dienste anbieten, die ohne die Cookie-Einstellung nicht möglich wären.</p>
 <p>Mit Hilfe eines Cookies können die Informationen und Angebote auf unserer Website im Hinblick auf den Benutzer optimiert werden. Cookies erlauben uns, wie bereits erwähnt, die Benutzer unserer Website wiederzuerkennen. Zweck dieser Wiedererkennung ist es, den Benutzern die Nutzung unserer Website zu erleichtern. Der Website-Nutzer, der Cookies verwendet, muss z.B. nicht bei jedem Zugriff auf die Website Zugangsdaten eingeben, da diese von der Website übernommen werden und der Cookie somit auf dem Computersystem des Nutzers gespeichert wird. Ein weiteres Beispiel ist das Cookie eines Einkaufswagens in einem Online-Shop. Der Online-Shop merkt sich über ein Cookie die Artikel, die ein Kunde in den virtuellen Einkaufswagen gelegt hat.</p>
@@ -830,8 +866,6 @@ Als verantwortungsbewusstes Unternehmen verwenden wir keine automatische Entsche
 
 <script src="https://www.datafortress.cloud/plugins/bootstrap/bootstrap.min.js"></script>
 
-<script src="https://www.datafortress.cloud/plugins/cookie-script/cookiescript.js"></script>
-
 <script src="https://www.datafortress.cloud/plugins/slick/slick.min.js"></script>
 
 <script src="https://www.datafortress.cloud/plugins/magnific-popup/magnific-popup.min.js"></script>
@@ -863,6 +897,25 @@ Als verantwortungsbewusstes Unternehmen verwenden wir keine automatische Entsche
 	ga('create', 'UA-56269619-17', 'auto');
 	ga('send', 'pageview');
 </script>
+
+
+
+
+
+<button type="button" id="hs_remove_cookie_button"
+  style="background-color: #425b76; border: 1px solid #425b76;
+         border-radius: 3px; padding: 10px 16px; text-decoration: none; color: #fff;
+         font-family: inherit; font-size: inherit; font-weight: normal; line-height: inherit;
+         text-align: left; text-shadow: none;"
+  onClick="(function removeCookies(){
+    var _hsp = window._hsp = window._hsp || [];
+    _hsp.push(['revokeCookieConsent']);
+  })()"
+>
+  Remove cookies
+</button>
+
+
 
 
 </body>
