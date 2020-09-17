@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="de-de"><head>
     <meta charset="utf-8">
-    <title>serverless</title>
+    <title>Von Wordpress zu serverlosen, unhackbaren statischen Hochgeschwindigkeits-Webseiten</title>
 
-    <link rel="canonical" href="https://www.datafortress.cloud/de/tags/serverless/">
+    <link rel="canonical" href="https://www.datafortress.cloud/de/blog/wordpress-zu-serverlos-unhackbare-webseite/">
 
     <!-- mobile responsive meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta name="description" content="VR, Big-Data and Cloud for your Business.">
+    <meta name="description" content="Ich habe mich entschieden, WordPress hinter mir zu lassen und stattdessen zu serverlosen, nicht hackbaren statischen Hochgeschwindigkeits-Websites zu wechseln.">
     <meta name="author" content="DataFortress.cloud">
     <meta name="generator" content="Hugo 0.68.3" />
 
@@ -127,36 +127,6 @@
           </ul>
           
         
-          <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
-            
-            
-            
-            
-            
-            
-            
-            
-            <option id="en" value="https://www.datafortress.cloud/tags/serverless/">En</option>
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            <option id="de" value="https://www.datafortress.cloud/de/tags/serverless/" selected>De</option>
-            
-            
-            
-            
-          </select>
-          
 
           
           
@@ -172,14 +142,14 @@
 	<div id="content">
 
 <!-- page title -->
-<section class="page-title overlay" style="background-image: url('https://www.datafortress.cloud/'),url('/images/background/page-title.webp');">
+<section class="page-title overlay" style="background-image: url('https://www.datafortress.cloud/images/blog/serverless-website.png'),url('/images/background/page-title.webp');">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-center">
-				<h2 class="text-white font-weight-bold">serverless</h2>
+				<h2 class="text-white font-weight-bold">Von Wordpress zu serverlosen, unhackbaren statischen Hochgeschwindigkeits-Webseiten</h2>
 				<ol class="breadcrumb">
 					<li><a href="https://www.datafortress.cloud/">Home</a></li>
-					<li>serverless</li>
+					<li>Von Wordpress zu serverlosen, unhackbaren statischen Hochgeschwindigkeits-Webseiten</li>
 				</ol>
 			</div>
 		</div>
@@ -187,71 +157,169 @@
 </section>
 <!-- /page title -->
 
-<!-- blog -->
+<!-- blog single -->
 <section>
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-8 py-100">
-				<div class="row">
-					
-					
-					<!-- blog-item -->
-					<div class="col-sm-6 mb-4">
-						<article class="card">
-  <div class="card-img-wrapper overlay-rounded-top">
-    <img class="card-img-top" src="https://www.datafortress.cloud/images/blog/serverless-website.png" alt="Von Wordpress zu serverlosen, unhackbaren statischen Hochgeschwindigkeits-Webseiten">
-  </div>
-  <div class="card-body p-0">
-    <div class="d-flex">
-      <div class="py-3 px-4 border-right text-center">
-        <h3 class="text-primary mb-0">17</h3>
-        <p class="mb-0">Sep</p>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 py-100">
+        <div class="border rounded bg-white">
+          <img class="img-fluid w-100 rounded-top" src="https://www.datafortress.cloud/images/blog/serverless-website.png" alt="blog-image">
+          <div class="p-4">
+            <h3>Von Wordpress zu serverlosen, unhackbaren statischen Hochgeschwindigkeits-Webseiten</h3>
+            <ul class="list-inline d-block pb-4 border-bottom mb-3">
+              <li class="list-inline-item text-color">Veröffentlicht von <a class="text-primary" href="/de/author/justin-guese">Justin Guese</a></li>
+              <li class="list-inline-item text-color">On 17 Sep</li>
+              <li class="list-inline-item text-color">Category:
+                
+                <a class="text-primary" href="/de/categories/serverless"> Serverless</a>
+                
+              </li>
+            </ul>
+            <div class="post-content">
+              <h1 id="von-wordpress-zu-serverlosen-unhackbaren-statischen-hochgeschwindigkeits-websites">Von Wordpress zu serverlosen, unhackbaren statischen Hochgeschwindigkeits-Websites</h1>
+<p>Ich habe in der Vergangenheit Websites erstellt, aber immer mit der langsamen Leistung von WordPress zu kämpfen gehabt. Wenn es mit Plugins geladen ist, wird es ziemlich viele Ressourcen benötigen und kann eine Qual sein, wenn Sie gerade eine Idee auf einem kleinen Server entwickeln.</p>
+<p>Darüber hinaus ist auch die Sicherheit ein Thema, und als ein System, das <a href="https://en.wikipedia.org/wiki/WordPress">33,6% der Websites benutzen</a>, ist es für Hacker recht attraktiv, Exploits und andere Probleme darin zu finden.
+Aber wie gesagt, da es massiv populär ist, gibt es fast jedes Mal ein Plugin für die Probleme, die Sie haben, wodurch es einfach zu benutzen ist, und ein großartiges &ldquo;All-in-one&rdquo;-Tool.</p>
+<h2 id="idee-1-verbesserung-der-wordpress-entwicklung">Idee 1: Verbesserung der WordPress-Entwicklung</h2>
+<p>Eines der ersten Dinge, die ich in der Vergangenheit getan habe, war, WordPress lokal zu entwickeln (z.B. <a href="https://www.smashingmagazine.com/2018/04/wordpress-local-development-beginners-setup-deployment/">siehe diesen AWS-Post</a>), und dann einfach das Ergebnis auf einem Server zu veröffentlichen. Die Programmier- und Schreibgeschwindigkeiten stiegen enorm an, aber der Teil des Hochladens erwies sich als ein Problem, da WordPress-Links normalerweise fest mit der verwendeten SQL-Datenbank &ldquo;verdrahtet&rdquo; sind. Das bedeutet, dass alle meine Links auf &ldquo;localhost&rdquo; (Mein Computer) und nicht auf die Zieldomäne verwiesen. Es gibt Möglichkeiten, dies zu lösen, wie z.B. das Neuschreiben Ihrer URLs in SQL oder die Verwendung von neu geschriebenen htaccess-Regeln, um &ldquo;alte&rdquo; URLs auf die &ldquo;neuen&rdquo; zu verweisen, aber es war trotzdem sehr schwierig, den Anfang zu machen.</p>
+<h2 id="idea-2-online-development-with-offloaded-media-files">Idea 2: Online Development with Offloaded Media files</h2>
+<p>This URL rewriting issue got on my nerves real quick, and local development is bad for multiple developers. That is why I decided to &ldquo;go online&rdquo; again, and work &ldquo;with the cloud&rdquo;. The architecture I followed has been to deploy one development server, that is only accessible to developers, and to upload media files to shared storage (AWS S3) from which end users are pulling the media files. As media files (pictures, videos, &hellip;) are the most demanding parts of WordPress, speed increased drastically, and additionally, it has been easy to set up a CDN on top of it, which basically means the media files are deployed all over the world at unlimited capacity (basically serverless). This means, that one user in e.g. Puerto Rico does not need to access my server in Frankfurt, but has a &ldquo;local&rdquo; copy close to him. Additionally, as the &ldquo;heavy&rdquo; part of WordPress has been &ldquo;outsourced&rdquo;, only &ldquo;small&rdquo; servers were needed to handle PHP requests and the &ldquo;back-office&rdquo; parts of WordPress. Feel free to ask me more about it in the comments or a direct message, or <a href="https://devops.com/hosting-scalable-wordpress-on-aws/">check out a similar approach by AWS</a>.</p>
+<p><img src="/images/blog/Webp.net-resizeimage.png" alt="Architecture for wordpress on AWS"></p>
+<p>Together with Autoscaling, this seemed to be the most ideal setup for WordPress, and it proved great. BUT&hellip;</p>
+<p>You still had to check for Plugin Updates, Security, and Monitoring in general. Even though AWS helps a lot to make this architecture quite resilient and fast, there is still a high operational demand. Additionally, running a separate development, database, load balancing, and so on the server can be quite cost expensive, especially for a website that does not have many users.
+And what did Werner Vogels say at re:invent 2015?</p>
+<blockquote>
+<p><strong>&ldquo;No server is easier to manage than no server&rdquo;</strong></p>
+<p>Werner Vogels at re:invent 2015</p>
+</blockquote>
+<h2 id="excursion-a-brief-history-of-the-code-of-web">Excursion: A brief history of the Code of web</h2>
+<p>WordPress is great for writers and editors, but form the perspective of a solution architect it is not great. Why? Even though everything is clickable, easy to handle, and so on, all resources and information are pulled from a database in the background, even though if it is pulled for the 100000th time this day. There are methods to reduce the query load on SQL databases, like Redis and Memcached, but why should I &ldquo;calculate&rdquo; the same webpage for every single user? &ldquo;Back in the day&rdquo;, websites did just load in seconds (except someone has been on the phone) and they were super small - what has changed? Together with new design demands, today&rsquo;s websites are full of effects and designs that are heavy on computational resources. Even though this is definitely an improvement to the 90s black and white style, loading times of websites increased dramatically - especially as the world&rsquo;s connection standard is still mobile network.</p>
+<p>To render all the effects, PHP code is used in the background, which is code executed on the server itself. Meaning every time a user connects to a website, the server is calculating the website it is going to show to the user. The 90s version of websites featured just plain HTML code, which are basically simple instructions to the browser on how to handle things. Like the <!-- raw HTML omitted --> tag tells the browser this is a heading, and <!-- raw HTML omitted --> is a paragraph. No (sorry for reducing complexity!) calculations are needed.</p>
+<p>Additionally, Javascript and CSS go a similar path as CSS describes design in a similar approach to HTML, and Javascript is executed not on the server, but on the client-side. Meaning the server does not calculate itself, but &ldquo;sends instructions&rdquo; to the client&rsquo;s browser (e.g. your phone).</p>
+<p>So why don&rsquo;t we use just HTML, Javascript, and CSS? PHP enables us to do a lot of things and allows for content creation frameworks like WordPress to make our lives easier. But the efficient way to produce websites would be to generate them once and then just distribute them already rendered to the masses.</p>
+<h2 id="idea-4-going-back-to-the-roots">Idea 4: Going back to the roots</h2>
+<p>So am I saying we should go back to the black and white HTML pages of the 90s? Of course not, but the combination of HTML and CSS can produce great results, and Javascript becomes more and more capable to handle processes only PHP could handle in the past. And if calculations are needed, there are great new serverless possibilities available like AWS Lambda (check out my blog for some applications of Lambda).</p>
+<p>Going back to the main topic, I have decided to write my blog and any future websites in plain HTML, CSS, and JS, as I do not need to</p>
+<ol>
+<li><strong>manage a server</strong> - I can just host it for almost free on Github or AWS S3</li>
+<li><strong>worry about high-demands</strong>  - S3 and Github scale automatically, meaning if thousands of visitors arrive on my website it will not crash my server
+pay much - as I do not need as many calculations as with WordPress, running this blog is completely free</li>
+<li><strong>do not need to worry about security issues</strong> - my blog is basically unhackable</li>
+</ol>
+<p>Additionally, the website is blazingly fast, with a Google Pagespeed score of 100%, which has a great effect on page ranking as well, as Google favors high-speed websites. The only reason why the current score is down to 90%, is that I decided to include CRM and tracking tools on my blog. When was the last time you saw a free website achieving this score?</p>
+<p>All in all, it is just great, but am I writing all the HTML code by myself?</p>
+<h2 id="introducing-static-website-generators">Introducing: Static Website Generators</h2>
+<p>Of course not, and luckily there are great tools to handle this for me. Static website builders like <a href="https://jekyllrb.com/">Jekyll</a> or <a href="https://gohugo.io/">Hugo</a> help a lot to let you basically just type in Markdown language (basically a simple txt file) and convert your texts into HTML and a nice website. The code is just calculated once and can be uploaded to a server, or Github pages and AWS S3 right away to be completely serverless. How does it work? Check out my case studies on my blog for an in-depth explanation.</p>
+<h2 id="summary">Summary</h2>
+<p>It feels great to not worry about uptime, scaling, and security anymore. Is it harder than WordPress? It depends. As this technology just develops, there is a rethinking to be done if you worked with WordPress and others in the past, but again there are many great tools that make static website builders similar to the &ldquo;known&rdquo; WordPress environment, like forestry.io for example. How? <a href="/project/serverless-static-website/">Check out my blog at www.datafortress.cloud to see the in-depth explanation</a>.
+For now, I would be interested if you ever tried to go serverless, or what your experiences with WordPress are. [Shoot me a message, or write a comment below](Shoot me a message, or write a comment below. ).</p>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="newsletter">
+          <br/></br>
+          <h4>Stay Updated</h4>
+          <p>Receive this and other stories as well as news from the area of Cloud, Big-Data and AR/VR straight into your inbox. Unsubscribe any time.</p>
+              <form action="https://cloud.us19.list-manage.com/subscribe/post?u=29b9af4020a7ab7d1e6a76d72&amp;amp;id=3622b2a9a6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
+              novalidate>
+                      <div class="mc-field-group">
+                          </label>
+                          <input type="email" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email">
+                      </div>
+                      <div class="mc-field-group">
+                          <input type="text" name="FNAME" id="mce-FNAME" placeholder="First Name">
+                      </div>
+                      <div class="mc-field-group">
+                          <input type="text" name="LNAME" id="mce-LNAME" placeholder="Last Name">
+                      </div>
+                      <div id="mce-responses" class="clear">
+                          <div class="response" id="mce-error-response" style="display:none"></div>
+                          <div class="response" id="mce-success-response" style="display:none"></div>
+                      </div>
+                      
+                      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
+                              name="mc-embedded-subscribe-form" tabindex="-1"></div>
+                      <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe"
+                              class="button"></div>
+              </form>
       </div>
-      <div class="p-3">
-        <a href="https://www.datafortress.cloud/de/blog/wordpress-zu-serverlos-unhackbare-webseite/" class="h4 font-primary text-dark">Von Wordpress zu serverlosen, unhackbaren statischen Hochgeschwindigkeits-Webseiten</a>
-        <p>by Justin Guese</p>
+
+        <div class="py-4 border-bottom mb-100">
+          <div class="row">
+            <div class="col-lg-5 mb-4 mb-lg-0">
+              <!-- share-icon -->
+              <div class="d-flex">
+                <span class="font-weight-light mt-2 mr-3">Teilen:</span>
+                <ul class="list-inline d-inline-block">
+                  
+                  <li class="list-inline-item">
+                    <a class="share-icon bg-facebook" href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.datafortress.cloud%2fde%2fblog%2fwordpress-zu-serverlos-unhackbare-webseite%2f"><i class="ti-facebook"></i></a>
+                  </li>
+                  <li class="list-inline-item">
+                    <a class="share-icon bg-twitter" href="https://twitter.com/intent/tweet/?text=Von%20Wordpress%20zu%20serverlosen%2c%20unhackbaren%20statischen%20Hochgeschwindigkeits-Webseiten&amp;url=https%3a%2f%2fwww.datafortress.cloud%2fde%2fblog%2fwordpress-zu-serverlos-unhackbare-webseite%2f"><i class="ti-twitter-alt"></i></a>
+                  </li>
+                  <li class="list-inline-item">
+                    <a class="share-icon bg-reddit" href="https://reddit.com/submit/?url=https%3a%2f%2fwww.datafortress.cloud%2fde%2fblog%2fwordpress-zu-serverlos-unhackbare-webseite%2f&amp;resubmit=true&amp;title=Von%20Wordpress%20zu%20serverlosen%2c%20unhackbaren%20statischen%20Hochgeschwindigkeits-Webseiten"><i class="ti-reddit"></i></a>
+                  </li>
+                  <li class="list-inline-item">
+                    <a class="share-icon bg-primary" href="mailto:?subject=Von%20Wordpress%20zu%20serverlosen%2c%20unhackbaren%20statischen%20Hochgeschwindigkeits-Webseiten&amp;body=https%3a%2f%2fwww.datafortress.cloud%2fde%2fblog%2fwordpress-zu-serverlos-unhackbare-webseite%2f"><i class="ti-email"></i></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <!-- tags -->
+            <div class="col-lg-7">
+              <div class="d-flex">
+                <span class="font-weight-light mt-2 mr-3">Tags:</span>
+                <ul class="list-inline tag-list">
+                  
+                  <li class="list-inline-item">
+                    <a href="/de/categories/cloud">Cloud</a>
+                  </li>
+                  
+                  <li class="list-inline-item">
+                    <a href="/de/categories/websites">Websites</a>
+                  </li>
+                  
+                  <li class="list-inline-item">
+                    <a href="/de/categories/serverless">Serverless</a>
+                  </li>
+                  
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        
+        <div class="mt-5">
+          <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "datafortess-cloud" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        </div>
+        
       </div>
-    </div>
-  </div>
-</article>
-					</div>
-					
-					<!-- blog-item -->
-					<div class="col-sm-6 mb-4">
-						<article class="card">
-  <div class="card-img-wrapper overlay-rounded-top">
-    <img class="card-img-top" src="https://www.datafortress.cloud/images/serverless-investing-bot-facebook-prophet-machine-learning-1.png" alt="Howto: Einen automatisierten Machine-Learning Aktienhandels-Roboter mittels AWS Lambda serverlos betreiben">
-  </div>
-  <div class="card-body p-0">
-    <div class="d-flex">
-      <div class="py-3 px-4 border-right text-center">
-        <h3 class="text-primary mb-0">23</h3>
-        <p class="mb-0">Aug</p>
-      </div>
-      <div class="p-3">
-        <a href="https://www.datafortress.cloud/de/blog/howto-einen-automatisierten-machine-learning-aktienhandels-roboter-mittels-aws-lambda-serverlos-betreiben/" class="h4 font-primary text-dark">Howto: Einen automatisierten Machine-Learning Aktienhandels-Roboter mittels AWS Lambda serverlos betreiben</a>
-        <p>by Justin Guese</p>
-      </div>
-    </div>
-  </div>
-</article>
-					</div>
-					
-				</div>
-				<!-- pagination -->
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-			</div>
-			<!-- Sidebar -->
+      <!-- Sidebar -->
 <div class="col-lg-4">
 	<div class="bg-white px-4 py-100 sidebar-box-shadow">
 		<!-- categories -->
@@ -430,10 +498,10 @@
 		</div>
 	</div>
 </div>
-		</div>
-	</div>
+    </div>
+  </div>
 </section>
-<!-- /blog -->
+<!-- /blog-single -->
 
 
 		

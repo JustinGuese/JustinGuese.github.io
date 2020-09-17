@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 23 Aug 2020 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 11:10:07 +0600</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Von Wordpress zu serverlosen, unhackbaren statischen Hochgeschwindigkeits-Webseiten</title>
+      <link>https://www.datafortress.cloud/de/blog/wordpress-zu-serverlos-unhackbare-webseite/</link>
+      <pubDate>Thu, 17 Sep 2020 11:10:07 +0600</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/wordpress-zu-serverlos-unhackbare-webseite/</guid>
+      <description>Von Wordpress zu serverlosen, unhackbaren statischen Hochgeschwindigkeits-Websites Ich habe in der Vergangenheit Websites erstellt, aber immer mit der langsamen Leistung von WordPress zu kämpfen gehabt.</description>
+    </item>
     
     <item>
       <title>Howto: Einen automatisierten Machine-Learning Aktienhandels-Roboter mittels AWS Lambda serverlos betreiben</title>

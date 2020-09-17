@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 23 Aug 2020 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 11:10:07 +0600</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>serverless</title>
+      <link>https://www.datafortress.cloud/de/categories/serverless/</link>
+      <pubDate>Thu, 17 Sep 2020 11:10:07 +0600</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/categories/serverless/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>algorithmic-trading</title>
@@ -44,15 +53,6 @@
       <pubDate>Sun, 23 Aug 2020 22:00:00 +0000</pubDate>
       
       <guid>https://www.datafortress.cloud/de/categories/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>serverless</title>
-      <link>https://www.datafortress.cloud/de/categories/serverless/</link>
-      <pubDate>Sun, 23 Aug 2020 22:00:00 +0000</pubDate>
-      
-      <guid>https://www.datafortress.cloud/de/categories/serverless/</guid>
       <description></description>
     </item>
     
