@@ -3,6 +3,131 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.datafortress.cloud/blog/</loc>
+    <lastmod>2020-09-17T17:26:29+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/categories/</loc>
+    <lastmod>2020-09-17T17:26:29+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/tags/cloud/</loc>
+    <lastmod>2020-09-17T17:26:29+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/cloud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/cloud/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/</loc>
+    <lastmod>2020-09-17T17:26:29+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/blog/wordpress-to-serverless-highspeed-scalable-unhackable/</loc>
+    <lastmod>2020-09-17T17:26:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/tags/serverless/</loc>
+    <lastmod>2020-09-17T17:26:29+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/serverless/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/serverless/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/categories/serverless/</loc>
+    <lastmod>2020-09-17T17:26:29+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/categories/serverless/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/categories/serverless/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/tags/</loc>
+    <lastmod>2020-09-17T17:26:29+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/tags/websites/</loc>
+    <lastmod>2020-09-17T17:26:29+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/websites/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/websites/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.datafortress.cloud/tags/algorithmic-trading/</loc>
     <lastmod>2020-09-16T12:31:57+02:00</lastmod>
     <xhtml:link
@@ -68,68 +193,8 @@
   </url>
   
   <url>
-    <loc>https://www.datafortress.cloud/blog/</loc>
-    <lastmod>2020-09-16T12:59:48+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/categories/</loc>
-    <lastmod>2020-09-16T12:59:48+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/tags/cloud/</loc>
-    <lastmod>2020-09-16T12:31:57+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/tags/cloud/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/tags/cloud/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.datafortress.cloud/tags/cloud-computing/</loc>
     <lastmod>2020-09-16T12:31:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/</loc>
-    <lastmod>2020-09-16T13:50:10+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/"
-                />
   </url>
   
   <url>
@@ -183,53 +248,8 @@
   </url>
   
   <url>
-    <loc>https://www.datafortress.cloud/tags/serverless/</loc>
-    <lastmod>2020-09-16T12:31:57+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/tags/serverless/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/tags/serverless/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/categories/serverless/</loc>
-    <lastmod>2020-09-16T12:31:57+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/categories/serverless/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/categories/serverless/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.datafortress.cloud/tags/stock/</loc>
     <lastmod>2020-09-16T12:31:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/tags/</loc>
-    <lastmod>2020-09-16T12:59:48+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/tags/"
-                />
   </url>
   
   <url>
@@ -718,21 +738,6 @@
   </url>
   
   <url>
-    <loc>https://www.datafortress.cloud/tags/websites/</loc>
-    <lastmod>2020-09-16T12:59:48+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/tags/websites/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/tags/websites/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.datafortress.cloud/about/</loc>
     <lastmod>2020-07-12T19:48:04+02:00</lastmod>
     <xhtml:link
@@ -880,6 +885,11 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/author/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/project/serverless-static-website/</loc>
+    <lastmod>2020-09-17T17:26:29+02:00</lastmod>
   </url>
   
   <url>
