@@ -49,7 +49,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/</loc>
-    <lastmod>2020-09-17T17:42:29+02:00</lastmod>
+    <lastmod>2020-09-25T15:41:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -189,21 +189,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.datafortress.cloud/de/tags/aws-lambda/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/de/categories/cloud/</loc>
-    <lastmod>2020-08-24T18:15:19+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/categories/cloud/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/categories/cloud/"
                 />
   </url>
   
@@ -488,6 +473,21 @@
   </url>
   
   <url>
+    <loc>https://www.datafortress.cloud/de/categories/cloud/</loc>
+    <lastmod>2020-07-20T13:58:17+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/categories/cloud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/categories/cloud/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.datafortress.cloud/de/tags/cloud-storage/</loc>
     <lastmod>2020-07-20T13:58:17+02:00</lastmod>
     <xhtml:link
@@ -548,77 +548,92 @@
   </url>
   
   <url>
-    <loc>https://www.datafortress.cloud/de/service/cloud/</loc>
-    <lastmod>2020-07-20T13:58:17+02:00</lastmod>
+    <loc>https://www.datafortress.cloud/de/services/cloud/</loc>
+    <lastmod>2020-09-25T15:41:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datafortress.cloud/service/cloud/"
+                href="https://www.datafortress.cloud/services/cloud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.datafortress.cloud/de/service/cloud/"
+                href="https://www.datafortress.cloud/de/services/cloud/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datafortress.cloud/de/service/data-science-data-engineering/</loc>
-    <lastmod>2020-07-20T13:58:17+02:00</lastmod>
+    <loc>https://www.datafortress.cloud/de/services/data-science-data-engineering/</loc>
+    <lastmod>2020-09-25T15:41:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datafortress.cloud/service/data-science-data-engineering/"
+                href="https://www.datafortress.cloud/services/data-science-data-engineering/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.datafortress.cloud/de/service/data-science-data-engineering/"
+                href="https://www.datafortress.cloud/de/services/data-science-data-engineering/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datafortress.cloud/de/service/financial-data-driven-planning/</loc>
-    <lastmod>2020-07-20T13:58:17+02:00</lastmod>
+    <loc>https://www.datafortress.cloud/de/services/financial-data-driven-planning/</loc>
+    <lastmod>2020-09-25T15:41:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datafortress.cloud/service/financial-data-driven-planning/"
+                href="https://www.datafortress.cloud/services/financial-data-driven-planning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.datafortress.cloud/de/service/financial-data-driven-planning/"
+                href="https://www.datafortress.cloud/de/services/financial-data-driven-planning/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datafortress.cloud/de/service/virtual-augmented-reality/</loc>
-    <lastmod>2020-07-20T13:58:17+02:00</lastmod>
+    <loc>https://www.datafortress.cloud/de/services/virtual-augmented-reality/</loc>
+    <lastmod>2020-09-25T15:41:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datafortress.cloud/service/virtual-augmented-reality/"
+                href="https://www.datafortress.cloud/services/virtual-augmented-reality/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.datafortress.cloud/de/service/virtual-augmented-reality/"
+                href="https://www.datafortress.cloud/de/services/virtual-augmented-reality/"
                 />
   </url>
   
   <url>
-    <loc>https://www.datafortress.cloud/de/service/business-consulting1/</loc>
-    <lastmod>2020-07-20T13:58:17+02:00</lastmod>
+    <loc>https://www.datafortress.cloud/de/services/translations-deep-learning/</loc>
+    <lastmod>2020-09-25T15:41:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datafortress.cloud/service/business-consulting1/"
+                href="https://www.datafortress.cloud/services/translations-deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.datafortress.cloud/de/service/business-consulting1/"
+                href="https://www.datafortress.cloud/de/services/translations-deep-learning/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/services/business-consulting1/</loc>
+    <lastmod>2020-09-25T15:41:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/services/business-consulting1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/services/business-consulting1/"
                 />
   </url>
   
@@ -818,17 +833,17 @@
   </url>
   
   <url>
-    <loc>https://www.datafortress.cloud/de/service/</loc>
-    <lastmod>2020-07-20T13:58:17+02:00</lastmod>
+    <loc>https://www.datafortress.cloud/de/services/</loc>
+    <lastmod>2020-09-25T15:41:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.datafortress.cloud/service/"
+                href="https://www.datafortress.cloud/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.datafortress.cloud/de/service/"
+                href="https://www.datafortress.cloud/de/services/"
                 />
   </url>
   
