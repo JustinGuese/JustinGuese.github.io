@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2020 11:10:07 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2020 11:10:07 +0600</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Augmented Reality</title>
+      <link>https://www.datafortress.cloud/categories/augmented-reality/</link>
+      <pubDate>Thu, 24 Sep 2020 11:10:07 +0600</pubDate>
+      
+      <guid>https://www.datafortress.cloud/categories/augmented-reality/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>serverless</title>
@@ -44,15 +53,6 @@
       <pubDate>Sun, 23 Aug 2020 22:00:00 +0000</pubDate>
       
       <guid>https://www.datafortress.cloud/categories/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Augmented Reality</title>
-      <link>https://www.datafortress.cloud/categories/augmented-reality/</link>
-      <pubDate>Sun, 16 Aug 2020 22:00:00 +0000</pubDate>
-      
-      <guid>https://www.datafortress.cloud/categories/augmented-reality/</guid>
       <description></description>
     </item>
     

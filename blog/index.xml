@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2020 11:10:07 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2020 11:10:07 +0600</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to integrate 3D models into websites and Quick View for Android and iOS devices</title>
+      <link>https://www.datafortress.cloud/blog/3d-model-integration/</link>
+      <pubDate>Thu, 24 Sep 2020 11:10:07 +0600</pubDate>
+      
+      <guid>https://www.datafortress.cloud/blog/3d-model-integration/</guid>
+      <description>Integrating a 3D model into a website using Quick View for Android and iOS Try it out: Rotate the 3D object below, or look at it in AR using your phone or even VR if a VR-glass is connected to your computer.</description>
+    </item>
     
     <item>
       <title>Going from Wordpress to serverless, unhackable high-speed static websites</title>
@@ -55,15 +64,6 @@
       <guid>https://www.datafortress.cloud/blog/top-6-cloud-storage-solutions/</guid>
       <description>Why should I store my data in the cloud?
 The computing industry has moved gradually away from local storage to remote, server-based storage and computing since the rise of the internet — what has been known as the cloud.</description>
-    </item>
-    
-    <item>
-      <title>How to integrate 3D models into websites and Quick View for Android and iOS devices</title>
-      <link>https://www.datafortress.cloud/blog/3d-model-integration/</link>
-      <pubDate>Mon, 24 Sep 2018 11:10:07 +0600</pubDate>
-      
-      <guid>https://www.datafortress.cloud/blog/3d-model-integration/</guid>
-      <description>Integrating a 3D model into a website using Quick View for Android and iOS Try it out: Rotate the 3D object below, or look at it in AR using your phone or even VR if a VR-glass is connected to your computer.</description>
     </item>
     
   </channel>
