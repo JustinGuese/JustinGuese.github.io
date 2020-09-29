@@ -212,7 +212,7 @@
             <div class="post-content">
               <h1 id="arch-linux-auf-einfache-weise-mit-verschlüsselten-laufwerken-für-tiefes-lernen-installieren">Arch Linux auf einfache Weise mit verschlüsselten Laufwerken für tiefes Lernen installieren</h1>
 <h2 id="die-vorteile-von-arch-linux">Die Vorteile von Arch Linux</h2>
-<p>In meinem anderen Beitrag, <a href="//https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">&ldquo;How To: Ditching Ubuntu for a Deep Learning Workstation&rdquo;</a>, habe ich erklärt, warum ich von Ubuntu zu Arch Linux für meine Machine Learning Workstation gewechselt habe. Zusammengefasst ist es vor allem wegen der Geschwindigkeit, weil Arch viel näher an der Hardware und damit viel schneller ist, weniger Bloatware und damit weniger RAM-Nutzung, die ich für maschinelles Lernen brauche, und wegen der erstaunlichen pacman- und AUR-Pakete, die schnell und einfach zu installieren sind.</p>
+<p>In meinem anderen Beitrag, <a href="//www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">&ldquo;How To: Ditching Ubuntu for a Deep Learning Workstation&rdquo;</a>, habe ich erklärt, warum ich von Ubuntu zu Arch Linux für meine Machine Learning Workstation gewechselt habe. Zusammengefasst ist es vor allem wegen der Geschwindigkeit, weil Arch viel näher an der Hardware und damit viel schneller ist, weniger Bloatware und damit weniger RAM-Nutzung, die ich für maschinelles Lernen brauche, und wegen der erstaunlichen pacman- und AUR-Pakete, die schnell und einfach zu installieren sind.</p>
 <p>In Ubuntu zum Beispiel ist es ziemlich schwierig, TensorFlow und CUDA für Deep Learning zum Laufen zu bringen, da die Debian-Paketstruktur anders ist und die Installation im Vergleich zu Arch langsamer ist. In Arch werden Abhängigkeiten gut gehandhabt, und die Pakete sind nicht so abstrahiert, da Arch im Grunde genommen der &ldquo;reine&rdquo; Linux-Kernel selbst ist.</p>
 <p>Außerdem kommen Pakete viel schneller heraus, und das ArchWiki gilt als die umfangreichste Dokumentation, die es für ein Betriebssystem gibt.</p>
 <p>Das Motto von Arch kann als &ldquo;Alles anpassen und so schnell wie möglich sein&rdquo; beschrieben werden, während das Motto von Ubuntu lautet: &ldquo;Mache die Installation und Benutzung so einfach wie möglich für neue Benutzer&rdquo;. Nun, ich sage nicht, dass Ubuntu schlecht ist, denn die Gemeinschaft ist riesig, und es ist die perfekte Distro, um Ihre Reise in die Linux-Welt zu beginnen, aber sobald Sie sich mehr an Linux gewöhnt haben und mehr Geschwindigkeit benötigen, könnte Arch der beste nächste Schritt sein.</p>
@@ -338,7 +338,7 @@ mount /dev/sdX1 /mnt/boot<br>
 swapon /dev/mapper/datafortress-swap</p>
 </blockquote>
 <h3 id="4-basis-linux-installieren">4. Basis-Linux installieren</h3>
-<p>Vor der Installation wird empfohlen, Ihre Spiegelliste so zu aktualisieren, dass Pakete von den nächstgelegenen Spiegeln heruntergeladen werden. Gehen Sie zu meinem anderen Artikel und suchen Sie nach &ldquo;Reflektor&rdquo; für eine Anleitung, wie das zu tun ist](//https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/).</p>
+<p>Vor der Installation wird empfohlen, Ihre Spiegelliste so zu aktualisieren, dass Pakete von den nächstgelegenen Spiegeln heruntergeladen werden. Gehen Sie zu meinem anderen Artikel und suchen Sie nach &ldquo;Reflektor&rdquo; für eine Anleitung, wie das zu tun ist](//www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/).</p>
 <blockquote>
 <p>pacstrap /mnt base base-devel linux linux-firmware nano</p>
 </blockquote>
@@ -471,7 +471,7 @@ options cryptdevice=UUID=<!-- raw HTML omitted -->:lvm:allow-discards resume=/de
 umount -R /mnt
 reboot</p>
 </blockquote>
-<p><strong><a href="//https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">Ich empfehle die Einrichtung von LTS-Kernels, da diese stabiler sind, und die Aktualisierung der Spiegelliste. Schauen Sie in meinen Leitfaden zum &ldquo;Erstellen einer Arch-Linux-Deep-Learning-Station&rdquo; für weitere Informationen darüber, wie man das macht</a>.</strong></p>
+<p><strong><a href="//www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">Ich empfehle die Einrichtung von LTS-Kernels, da diese stabiler sind, und die Aktualisierung der Spiegelliste. Schauen Sie in meinen Leitfaden zum &ldquo;Erstellen einer Arch-Linux-Deep-Learning-Station&rdquo; für weitere Informationen darüber, wie man das macht</a>.</strong></p>
 
             </div>
           </div>

@@ -212,7 +212,7 @@
             <div class="post-content">
               <h1 id="installing-arch-linux-the-easy-way-with-encrypted-drives-for-deep-learning">Installing Arch Linux the easy way with encrypted drives for Deep Learning</h1>
 <h2 id="the-benefits-of-arch-linux">The benefits of Arch Linux</h2>
-<p>In my other post, <a href="//https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">“How To: Ditching Ubuntu in favor of Arch Linux for a Deep Learning Workstation”</a>, I have been explaining why I switched from Ubuntu to Arch Linux for my Machine Learning workstation. Summarized it is mostly because of speed, because Arch is way closer to the hardware and therefore way faster, less bloatware and therefore less RAM usage which I need to machine learning, and the amazing pacman and AUR packages which are fast and easy to install.</p>
+<p>In my other post, <a href="//www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">“How To: Ditching Ubuntu in favor of Arch Linux for a Deep Learning Workstation”</a>, I have been explaining why I switched from Ubuntu to Arch Linux for my Machine Learning workstation. Summarized it is mostly because of speed, because Arch is way closer to the hardware and therefore way faster, less bloatware and therefore less RAM usage which I need to machine learning, and the amazing pacman and AUR packages which are fast and easy to install.</p>
 <p>In Ubuntu, for example, it is quite hard to get TensorFlow and CUDA working for Deep Learning, as the Debian package structure is different and the installation slower compared to Arch. In Arch, dependencies are handled nicely, and packages are not that abstracted as Arch is basically the “pure” Linux kernel itself.</p>
 <p>Additionally packages are coming out way faster, and the ArchWiki is said to be the most extensive documentation there is for an operating system.</p>
 <p>The motto of Arch can be described as “Customize everything, and be as fast as possible”, whilst Ubuntu’s motto would be “Make the installation and usage as easy as possible for new users”. Now, I am not saying that Ubuntu is bad, because the community is huge, and it is the perfect Distro to start your journey into the world of Linux, but once you are more used to Linux and need more speed, Arch might be the best next step.</p>
@@ -334,7 +334,7 @@ mount /dev/sdX1 /mnt/boot<br>
 swapon /dev/mapper/datafortress-swap</p>
 </blockquote>
 <h3 id="4-install-base-linux">4. Install base Linux</h3>
-<p>Before installing it is recommended to update your mirrorlist such that packages are downloaded from the closest mirrors. <a href="//https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">Head over to my other article and search for “reflector” for an instruction on how to do that</a>.</p>
+<p>Before installing it is recommended to update your mirrorlist such that packages are downloaded from the closest mirrors. <a href="//www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">Head over to my other article and search for “reflector” for an instruction on how to do that</a>.</p>
 <blockquote>
 <p>pacstrap /mnt base base-devel linux linux-firmware nano</p>
 </blockquote>
@@ -463,7 +463,7 @@ options cryptdevice=UUID=<!-- raw HTML omitted -->:lvm:allow-discards resume=/de
 umount -R /mnt<br>
 reboot</p>
 </blockquote>
-<p><strong><a href="//https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">I recommend setting up LTS kernels, as they are more stable, and update the mirrorlist. Check my guide on “creating an Arch Linux Deep Learning station” for more information on how to do that</a>.</strong></p>
+<p><strong><a href="//www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">I recommend setting up LTS kernels, as they are more stable, and update the mirrorlist. Check my guide on “creating an Arch Linux Deep Learning station” for more information on how to do that</a>.</strong></p>
 
             </div>
           </div>
