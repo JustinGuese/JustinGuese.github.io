@@ -218,9 +218,9 @@
 <p>Das Motto von Arch kann als &ldquo;Alles anpassen und so schnell wie möglich sein&rdquo; beschrieben werden, während das Motto von Ubuntu lautet: &ldquo;Mache die Installation und Benutzung so einfach wie möglich für neue Benutzer&rdquo;. Nun, ich sage nicht, dass Ubuntu schlecht ist, denn die Gemeinschaft ist riesig, und es ist die perfekte Distro, um Ihre Reise in die Linux-Welt zu beginnen, aber sobald Sie sich mehr an Linux gewöhnt haben und mehr Geschwindigkeit benötigen, könnte Arch der beste nächste Schritt sein.</p>
 <p>Ich bin zumindest zufrieden mit Arch, denn es ist viel schneller als alles, was ich bisher gesehen habe, und ich kann alles anpassen.</p>
 <p>Ich habe darüber nachgedacht, für meinen Deep Learning-Build eine iso oder img für eine einfache Installation zur Verfügung zu stellen. Wenn Sie interessiert sind, schreiben Sie mir bitte einen Kommentar oder senden Sie mir eine Nachricht.</p>
-<p>Wenn Sie außerdem mit einer leichten Abstraktionsschicht einverstanden sind, könnte <a href="//https://manjaro.org/">Manjaro Arch</a> eine gute Wahl für Sie sein. Es ist im Grunde genommen Arch, aber einfach und benutzerfreundlich gemacht. Ich habe es geliebt, bin aber zu Arch übergegangen, da Manjaro ihre eigenen Pakete verwendet, die immer noch gut sind, aber nicht dasselbe wie die &ldquo;reinen&rdquo; Arch-Pakete. Wenn Sie kein Power-User sind, könnte dies die richtige Wahl für Sie sein.</p>
+<p>Wenn Sie außerdem mit einer leichten Abstraktionsschicht einverstanden sind, könnte <a href="//manjaro.org/">Manjaro Arch</a> eine gute Wahl für Sie sein. Es ist im Grunde genommen Arch, aber einfach und benutzerfreundlich gemacht. Ich habe es geliebt, bin aber zu Arch übergegangen, da Manjaro ihre eigenen Pakete verwendet, die immer noch gut sind, aber nicht dasselbe wie die &ldquo;reinen&rdquo; Arch-Pakete. Wenn Sie kein Power-User sind, könnte dies die richtige Wahl für Sie sein.</p>
 <h2 id="wie-man-arch-linux-auf-einfache-weise-installiert">Wie man Arch-Linux auf einfache Weise installiert</h2>
-<p>Während der <a href="//https://wiki.archlinux.org/index.php/installation_guide">einleitende Leitfaden</a>, der von arch zur Verfügung gestellt wird, bereits recht gut ist, kann er für Neuankömmlinge verwirrend sein. Deshalb habe ich beschlossen, mein eigenes Tutorial zu schreiben.</p>
+<p>Während der <a href="//wiki.archlinux.org/index.php/installation_guide">einleitende Leitfaden</a>, der von arch zur Verfügung gestellt wird, bereits recht gut ist, kann er für Neuankömmlinge verwirrend sein. Deshalb habe ich beschlossen, mein eigenes Tutorial zu schreiben.</p>
 <p>Mein Ziel war es, Arch mit verschlüsselten Laufwerken zu installieren, da ich die Daten im Ruhezustand für meine Kunden sichern muss.</p>
 <h3 id="1-herunterladen-des-linux-images-von-arch">1. Herunterladen des Linux-Images von Arch</h3>
 <p>Gehen Sie auf <a href="https://www.archlinux.org/download/">https://www.archlinux.org/download/</a> und laden Sie das Bild herunter.</p>
@@ -361,7 +361,7 @@ ln -s /usr/share/zoneinfo/REGION/CITY /etc/localtime</p>
 <blockquote>
 <p>echo NAME &gt; /etc/hostname</p>
 </blockquote>
-<p>Als Nächstes stellen wir unser Gebietsschema ein, im Wesentlichen die Systemsprache. Öffnen Sie die Datei in nano und suchen Sie nach Ihrem Sprachcode. Verwenden Sie wenn möglich die UTF-8-Version. Die Suche mit nano ist mit Strg + W möglich. <a href="//https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/">Nano-Tutorial</a>.
+<p>Als Nächstes stellen wir unser Gebietsschema ein, im Wesentlichen die Systemsprache. Öffnen Sie die Datei in nano und suchen Sie nach Ihrem Sprachcode. Verwenden Sie wenn möglich die UTF-8-Version. Die Suche mit nano ist mit Strg + W möglich. <a href="//www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/">Nano-Tutorial</a>.
 Z.B. wollte ich Deutsch und Englisch (US) haben, deshalb habe ich en_US.UTF-8 UTF-8 und de_DE.UTF-8 UTF-8 unkommentiert</p>
 <blockquote>
 <p>nano /etc/locale.gen</p>
@@ -423,7 +423,7 @@ pacman -S wpa_supplicant dhclient lvm2 dialog</p>
 </blockquote>
 <p>Sie werden sich mit Ihrem Standardbenutzer anmelden. Wenn Sie administrative Dinge erledigen müssen, können Sie den Benutzer mit &ldquo;su - root&rdquo; wechseln.</p>
 <h3 id="8-boot-konfiguration">8. Boot-Konfiguration</h3>
-<p>Jetzt gibt es eine Menge Bootmanager, aber der System-Bootloader gefiel mir am besten. Fühlen Sie sich frei, einen anderen zu wählen](//https://wiki.archlinux.org/index.php/Category:Boot_loaders).</p>
+<p>Jetzt gibt es eine Menge Bootmanager, aber der System-Bootloader gefiel mir am besten. Fühlen Sie sich frei, einen anderen zu wählen](//wiki.archlinux.org/index.php/Category:Boot_loaders).</p>
 <blockquote>
 <p>nano /etc/mkinitcpio.conf</p>
 </blockquote>
