@@ -6,11 +6,7 @@
     <description>Recent content in cloud-computing on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Aug 2020 22:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.datafortress.cloud/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 23 Aug 2020 22:00:00 +0000</lastBuildDate><atom:link href="https://www.datafortress.cloud/tags/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to deploy an automated trading bot using the Facebook Prophet Machine Learning model to AWS Lambda (serverless)</title>
       <link>https://www.datafortress.cloud/blog/how-to-deploy-an-automated-trading-bot-using-the-facebook-prophet-machine-learning-model-to-aws-lambda-serverless/</link>

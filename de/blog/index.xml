@@ -6,10 +6,24 @@
     <description>Recent content in Blogs on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 24 Sep 2020 11:10:07 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2020 07:10:46 +0200</lastBuildDate><atom:link href="https://www.datafortress.cloud/de/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To - Arch Linux auf einfacher Weise mit verschlüsselten Laufwerken installieren</title>
+      <link>https://www.datafortress.cloud/de/blog/anleitung-arch-linux-einfach-installieren/</link>
+      <pubDate>Tue, 29 Sep 2020 07:10:46 +0200</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/anleitung-arch-linux-einfach-installieren/</guid>
+      <description>Arch Linux auf einfache Weise mit verschlüsselten Laufwerken für tiefes Lernen installieren Die Vorteile von Arch Linux In meinem anderen Beitrag, &amp;ldquo;How To: Ditching Ubuntu for a Deep Learning Workstation&amp;rdquo;, habe ich erklärt, warum ich von Ubuntu zu Arch Linux für meine Machine Learning Workstation gewechselt habe.</description>
+    </item>
     
-	<atom:link href="https://www.datafortress.cloud/de/blog/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>How To - Weg mit Ubuntu zugunsten von Arch Linux für eine Deep Learning-optimierte Arbeitsumgebung</title>
+      <link>https://www.datafortress.cloud/de/blog/anleitung-wie-bauche-ich-eine-arch-linux-machine-learning-workstation/</link>
+      <pubDate>Tue, 29 Sep 2020 07:10:46 +0200</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/anleitung-wie-bauche-ich-eine-arch-linux-machine-learning-workstation/</guid>
+      <description>How To - Weg mit Ubuntu zugunsten von Arch Linux für eine Machine Learning-optimierte Arbeitsumgebung Warum sollte ich Ubuntu ersetzen?</description>
+    </item>
     
     <item>
       <title>Wie man 3D-Modelle in Websites und Schnellansichten für Android und iOS integriert</title>
@@ -44,7 +58,7 @@
       <pubDate>Sun, 16 Aug 2020 22:00:00 +0000</pubDate>
       
       <guid>https://www.datafortress.cloud/de/blog/brauche-ich-als-firma-augmented-reality/</guid>
-      <description>Was ist AR? Warum brauche ich als Firma Augmented Reality? Image by &amp;lt;a href=&amp;rdquo;https://pixabay.</description>
+      <description>Was ist AR? Warum brauche ich als Firma Augmented Reality? Image by &amp;lt;a href=&amp;quot;https://pixabay.</description>
     </item>
     
     <item>
