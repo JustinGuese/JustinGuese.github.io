@@ -212,15 +212,15 @@
             <div class="post-content">
               <h1 id="arch-linux-auf-einfache-weise-mit-verschlüsselten-laufwerken-für-tiefes-lernen-installieren">Arch Linux auf einfache Weise mit verschlüsselten Laufwerken für tiefes Lernen installieren</h1>
 <h2 id="die-vorteile-von-arch-linux">Die Vorteile von Arch Linux</h2>
-<p>In meinem anderen Beitrag, <a href="https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">&ldquo;How To: Ditching Ubuntu for a Deep Learning Workstation&rdquo;</a>, habe ich erklärt, warum ich von Ubuntu zu Arch Linux für meine Machine Learning Workstation gewechselt habe. Zusammengefasst ist es vor allem wegen der Geschwindigkeit, weil Arch viel näher an der Hardware und damit viel schneller ist, weniger Bloatware und damit weniger RAM-Nutzung, die ich für maschinelles Lernen brauche, und wegen der erstaunlichen pacman- und AUR-Pakete, die schnell und einfach zu installieren sind.</p>
+<p>In meinem anderen Beitrag, <a href="//https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">&ldquo;How To: Ditching Ubuntu for a Deep Learning Workstation&rdquo;</a>, habe ich erklärt, warum ich von Ubuntu zu Arch Linux für meine Machine Learning Workstation gewechselt habe. Zusammengefasst ist es vor allem wegen der Geschwindigkeit, weil Arch viel näher an der Hardware und damit viel schneller ist, weniger Bloatware und damit weniger RAM-Nutzung, die ich für maschinelles Lernen brauche, und wegen der erstaunlichen pacman- und AUR-Pakete, die schnell und einfach zu installieren sind.</p>
 <p>In Ubuntu zum Beispiel ist es ziemlich schwierig, TensorFlow und CUDA für Deep Learning zum Laufen zu bringen, da die Debian-Paketstruktur anders ist und die Installation im Vergleich zu Arch langsamer ist. In Arch werden Abhängigkeiten gut gehandhabt, und die Pakete sind nicht so abstrahiert, da Arch im Grunde genommen der &ldquo;reine&rdquo; Linux-Kernel selbst ist.</p>
 <p>Außerdem kommen Pakete viel schneller heraus, und das ArchWiki gilt als die umfangreichste Dokumentation, die es für ein Betriebssystem gibt.</p>
 <p>Das Motto von Arch kann als &ldquo;Alles anpassen und so schnell wie möglich sein&rdquo; beschrieben werden, während das Motto von Ubuntu lautet: &ldquo;Mache die Installation und Benutzung so einfach wie möglich für neue Benutzer&rdquo;. Nun, ich sage nicht, dass Ubuntu schlecht ist, denn die Gemeinschaft ist riesig, und es ist die perfekte Distro, um Ihre Reise in die Linux-Welt zu beginnen, aber sobald Sie sich mehr an Linux gewöhnt haben und mehr Geschwindigkeit benötigen, könnte Arch der beste nächste Schritt sein.</p>
 <p>Ich bin zumindest zufrieden mit Arch, denn es ist viel schneller als alles, was ich bisher gesehen habe, und ich kann alles anpassen.</p>
 <p>Ich habe darüber nachgedacht, für meinen Deep Learning-Build eine iso oder img für eine einfache Installation zur Verfügung zu stellen. Wenn Sie interessiert sind, schreiben Sie mir bitte einen Kommentar oder senden Sie mir eine Nachricht.</p>
-<p>Wenn Sie außerdem mit einer leichten Abstraktionsschicht einverstanden sind, könnte <a href="https://manjaro.org/">Manjaro Arch</a> eine gute Wahl für Sie sein. Es ist im Grunde genommen Arch, aber einfach und benutzerfreundlich gemacht. Ich habe es geliebt, bin aber zu Arch übergegangen, da Manjaro ihre eigenen Pakete verwendet, die immer noch gut sind, aber nicht dasselbe wie die &ldquo;reinen&rdquo; Arch-Pakete. Wenn Sie kein Power-User sind, könnte dies die richtige Wahl für Sie sein.</p>
+<p>Wenn Sie außerdem mit einer leichten Abstraktionsschicht einverstanden sind, könnte <a href="//https://manjaro.org/">Manjaro Arch</a> eine gute Wahl für Sie sein. Es ist im Grunde genommen Arch, aber einfach und benutzerfreundlich gemacht. Ich habe es geliebt, bin aber zu Arch übergegangen, da Manjaro ihre eigenen Pakete verwendet, die immer noch gut sind, aber nicht dasselbe wie die &ldquo;reinen&rdquo; Arch-Pakete. Wenn Sie kein Power-User sind, könnte dies die richtige Wahl für Sie sein.</p>
 <h2 id="wie-man-arch-linux-auf-einfache-weise-installiert">Wie man Arch-Linux auf einfache Weise installiert</h2>
-<p>Während der <a href="https://wiki.archlinux.org/index.php/installation_guide">einleitende Leitfaden</a>, der von arch zur Verfügung gestellt wird, bereits recht gut ist, kann er für Neuankömmlinge verwirrend sein. Deshalb habe ich beschlossen, mein eigenes Tutorial zu schreiben.</p>
+<p>Während der <a href="//https://wiki.archlinux.org/index.php/installation_guide">einleitende Leitfaden</a>, der von arch zur Verfügung gestellt wird, bereits recht gut ist, kann er für Neuankömmlinge verwirrend sein. Deshalb habe ich beschlossen, mein eigenes Tutorial zu schreiben.</p>
 <p>Mein Ziel war es, Arch mit verschlüsselten Laufwerken zu installieren, da ich die Daten im Ruhezustand für meine Kunden sichern muss.</p>
 <h3 id="1-herunterladen-des-linux-images-von-arch">1. Herunterladen des Linux-Images von Arch</h3>
 <p>Gehen Sie auf <a href="https://www.archlinux.org/download/">https://www.archlinux.org/download/</a> und laden Sie das Bild herunter.</p>
@@ -338,7 +338,7 @@ mount /dev/sdX1 /mnt/boot<br>
 swapon /dev/mapper/datafortress-swap</p>
 </blockquote>
 <h3 id="4-basis-linux-installieren">4. Basis-Linux installieren</h3>
-<p>Vor der Installation wird empfohlen, Ihre Spiegelliste so zu aktualisieren, dass Pakete von den nächstgelegenen Spiegeln heruntergeladen werden. Gehen Sie zu meinem anderen Artikel und suchen Sie nach &ldquo;Reflektor&rdquo; für eine Anleitung, wie das zu tun ist](<a href="https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/)">https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/)</a>.</p>
+<p>Vor der Installation wird empfohlen, Ihre Spiegelliste so zu aktualisieren, dass Pakete von den nächstgelegenen Spiegeln heruntergeladen werden. Gehen Sie zu meinem anderen Artikel und suchen Sie nach &ldquo;Reflektor&rdquo; für eine Anleitung, wie das zu tun ist](//https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/).</p>
 <blockquote>
 <p>pacstrap /mnt base base-devel linux linux-firmware nano</p>
 </blockquote>
@@ -361,7 +361,7 @@ ln -s /usr/share/zoneinfo/REGION/CITY /etc/localtime</p>
 <blockquote>
 <p>echo NAME &gt; /etc/hostname</p>
 </blockquote>
-<p>Als Nächstes stellen wir unser Gebietsschema ein, im Wesentlichen die Systemsprache. Öffnen Sie die Datei in nano und suchen Sie nach Ihrem Sprachcode. Verwenden Sie wenn möglich die UTF-8-Version. Die Suche mit nano ist mit Strg + W möglich. <a href="https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/">Nano-Tutorial</a>.
+<p>Als Nächstes stellen wir unser Gebietsschema ein, im Wesentlichen die Systemsprache. Öffnen Sie die Datei in nano und suchen Sie nach Ihrem Sprachcode. Verwenden Sie wenn möglich die UTF-8-Version. Die Suche mit nano ist mit Strg + W möglich. <a href="//https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/">Nano-Tutorial</a>.
 Z.B. wollte ich Deutsch und Englisch (US) haben, deshalb habe ich en_US.UTF-8 UTF-8 und de_DE.UTF-8 UTF-8 unkommentiert</p>
 <blockquote>
 <p>nano /etc/locale.gen</p>
@@ -423,7 +423,7 @@ pacman -S wpa_supplicant dhclient lvm2 dialog</p>
 </blockquote>
 <p>Sie werden sich mit Ihrem Standardbenutzer anmelden. Wenn Sie administrative Dinge erledigen müssen, können Sie den Benutzer mit &ldquo;su - root&rdquo; wechseln.</p>
 <h3 id="8-boot-konfiguration">8. Boot-Konfiguration</h3>
-<p>Jetzt gibt es eine Menge Bootmanager, aber der System-Bootloader gefiel mir am besten. Fühlen Sie sich frei, einen anderen zu wählen](<a href="https://wiki.archlinux.org/index.php/Category:Boot_loaders)">https://wiki.archlinux.org/index.php/Category:Boot_loaders)</a>.</p>
+<p>Jetzt gibt es eine Menge Bootmanager, aber der System-Bootloader gefiel mir am besten. Fühlen Sie sich frei, einen anderen zu wählen](//https://wiki.archlinux.org/index.php/Category:Boot_loaders).</p>
 <blockquote>
 <p>nano /etc/mkinitcpio.conf</p>
 </blockquote>
@@ -471,7 +471,7 @@ options cryptdevice=UUID=<!-- raw HTML omitted -->:lvm:allow-discards resume=/de
 umount -R /mnt
 reboot</p>
 </blockquote>
-<p><strong><a href="https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">Ich empfehle die Einrichtung von LTS-Kernels, da diese stabiler sind, und die Aktualisierung der Spiegelliste. Schauen Sie in meinen Leitfaden zum &ldquo;Erstellen einer Arch-Linux-Deep-Learning-Station&rdquo; für weitere Informationen darüber, wie man das macht</a>.</strong></p>
+<p><strong><a href="//https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">Ich empfehle die Einrichtung von LTS-Kernels, da diese stabiler sind, und die Aktualisierung der Spiegelliste. Schauen Sie in meinen Leitfaden zum &ldquo;Erstellen einer Arch-Linux-Deep-Learning-Station&rdquo; für weitere Informationen darüber, wie man das macht</a>.</strong></p>
 
             </div>
           </div>

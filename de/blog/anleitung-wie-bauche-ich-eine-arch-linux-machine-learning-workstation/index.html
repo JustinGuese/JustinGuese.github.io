@@ -224,12 +224,12 @@ Da Arch viel näher an der Hardware ist, ist es im Vergleich zu Ubuntu wahnsinni
 <li>Einfacherer Wechsel zwischen TensorFlow Versionen
 im Vergleich zu Ubuntu.</li>
 </ol>
-<p>Ich werde die Anleitung in zwei Teile aufteilen, wobei der erste Teil &ldquo;<a href="www.datafortress.cloud/blog/howto-install-arch-linux-the-easy-way/">Wie installiere ich Arch Linux</a>&rdquo; und der zweite Teil &ldquo;<a href="https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">Wie installiere ich die Deep-Learning-Workstation-Pakete</a>&rdquo; lautet.</p>
-<p>Für das allgemeine <a href="www.datafortress.cloud/blog/howto-install-arch-linux-the-easy-way/">&ldquo;Wie man Arch Linux installiert&rdquo;, gehen Sie zu diesem Artikel</a>.</p>
-<p>Wenn Arch für den Moment zu komplex ist, könnten Sie <a href="https://manjaro.org/">Manjaro</a> ausprobieren, eine benutzerfreundliche Version von Arch, auch wenn ich nicht garantieren kann, dass alle Pakete gleich funktionieren, da sie leicht unterschiedlich sind. Alles in allem sollte es aber gleich funktionieren.</p>
+<p>Ich werde die Anleitung in zwei Teile aufteilen, wobei der erste Teil &ldquo;<a href="//www.datafortress.cloud/blog/howto-install-arch-linux-the-easy-way/">Wie installiere ich Arch Linux</a>&rdquo; und der zweite Teil &ldquo;<a href="//https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/">Wie installiere ich die Deep-Learning-Workstation-Pakete</a>&rdquo; lautet.</p>
+<p>Für das allgemeine <a href="//www.datafortress.cloud/blog/howto-install-arch-linux-the-easy-way/">&ldquo;Wie man Arch Linux installiert&rdquo;, gehen Sie zu diesem Artikel</a>.</p>
+<p>Wenn Arch für den Moment zu komplex ist, könnten Sie <a href="//https://manjaro.org/">Manjaro</a> ausprobieren, eine benutzerfreundliche Version von Arch, auch wenn ich nicht garantieren kann, dass alle Pakete gleich funktionieren, da sie leicht unterschiedlich sind. Alles in allem sollte es aber gleich funktionieren.</p>
 <p>Ich habe darüber nachgedacht, ein installationsfertiges Image (iso oder img) zu erstellen, wenn genügend Leute daran interessiert sind, hinterlassen Sie einen Kommentar unten oder schreiben Sie mir eine Nachricht!</p>
 <h2 id="installation-des-deep-learning-tensorflow-cuda-cudnn-anaconda-setups-auf-einer-frischen-arch-linux-installation">Installation des Deep Learning (TensorFlow, CUDA, CUDNN, Anaconda) Setups auf einer frischen Arch-Linux-Installation</h2>
-<p>Wenn Sie <a href="https://www.datafortress.cloud/blog/howto-install-arch-linux-the-easy-way/">mit der Installation von Arch (puh!)</a> fertig sind, lassen Sie uns zunächst einige Einstellungen so ändern, dass unser System stabiler arbeitet.</p>
+<p>Wenn Sie <a href="//https://www.datafortress.cloud/blog/howto-install-arch-linux-the-easy-way/">mit der Installation von Arch (puh!)</a> fertig sind, lassen Sie uns zunächst einige Einstellungen so ändern, dass unser System stabiler arbeitet.</p>
 <h3 id="1-umschalten-auf-die-schnellsten-spiegel">1. Umschalten auf die schnellsten Spiegel</h3>
 <p>Software wird von so genannten &ldquo;Mirrors&rdquo; heruntergeladen, das sind Server, die alle Arch-Bibliotheken enthalten. Wenn dies nicht automatisch geschieht, kann es passieren, dass Ihre Server noch nicht optimiert sind. Deshalb werden wir ein kleines Tool installieren, das die schnellsten Server findet und speichert, den sogenannten &ldquo;Spiegel&rdquo;.</p>
 <p>Installieren Sie den Reflektor mit</p>
@@ -284,7 +284,7 @@ sudo systemctl start lxdm</p>
 <blockquote>
 <p>sudo pacman -R linux</p>
 </blockquote>
-<p>Ein fortgeschrittener Teil ist nun, dass Sie Ihrem Bootloader mitteilen müssen, welchen Kernel er wählen soll. Die Frage ist, welchen Bootloader Sie verwenden, aber in den meisten Fällen ist es Grub. Wenn Sie <a href="www.datafortress.cloud/blog/howto-install-arch-linux-the-easy-way/">meinem Arch-Installations-Tutorial gefolgt sind</a>, ist Ihr Bootloader systemd-boot.</p>
+<p>Ein fortgeschrittener Teil ist nun, dass Sie Ihrem Bootloader mitteilen müssen, welchen Kernel er wählen soll. Die Frage ist, welchen Bootloader Sie verwenden, aber in den meisten Fällen ist es Grub. Wenn Sie <a href="//www.datafortress.cloud/blog/howto-install-arch-linux-the-easy-way/">meinem Arch-Installations-Tutorial gefolgt sind</a>, ist Ihr Bootloader systemd-boot.</p>
 <p>Meine Empfehlung ist, die Grub-Anweisungen auszuprobieren, und wenn das nicht funktioniert, fahren Sie mit den anderen fort.</p>
 <h4 id="ändern-des-grub-bootloaders-für-die-lts-linux-kernel">Ändern des Grub-Bootloaders für die LTS-Linux-Kernel</h4>
 <blockquote>
