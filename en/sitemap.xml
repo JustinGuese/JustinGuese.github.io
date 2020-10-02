@@ -79,7 +79,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/</loc>
-    <lastmod>2020-10-01T09:11:42+02:00</lastmod>
+    <lastmod>2020-10-02T16:30:08+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -849,6 +849,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.datafortress.cloud/services/translations-deep-learning/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/project/logo-creation/</loc>
+    <lastmod>2020-10-02T16:30:08+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/project/logo-creation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/project/logo-creation/"
                 />
   </url>
   
