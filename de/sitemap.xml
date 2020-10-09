@@ -49,7 +49,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/blog/</loc>
-    <lastmod>2020-09-29T14:13:37+02:00</lastmod>
+    <lastmod>2020-10-09T16:10:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,7 +64,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/categories/</loc>
-    <lastmod>2020-09-29T14:13:37+02:00</lastmod>
+    <lastmod>2020-10-09T16:10:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -79,7 +79,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/</loc>
-    <lastmod>2020-10-02T16:30:08+02:00</lastmod>
+    <lastmod>2020-10-09T16:10:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -209,7 +209,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/tags/</loc>
-    <lastmod>2020-09-29T14:13:37+02:00</lastmod>
+    <lastmod>2020-10-09T16:10:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -310,6 +310,21 @@
                 hreflang="de"
                 href="https://www.datafortress.cloud/de/categories/augmented-reality/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/tags/news/</loc>
+    <lastmod>2020-10-09T16:10:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/categories/news/</loc>
+    <lastmod>2020-10-09T16:10:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews-9.10.20/</loc>
+    <lastmod>2020-10-09T16:10:25+02:00</lastmod>
   </url>
   
   <url>
@@ -514,7 +529,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/content/</loc>
-    <lastmod>2020-10-01T09:11:42+02:00</lastmod>
+    <lastmod>2020-10-09T16:10:25+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -584,6 +599,21 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.datafortress.cloud/de/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/content/english/pages/newsletter/</loc>
+    <lastmod>2020-10-09T16:10:25+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/content/english/pages/newsletter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/content/english/pages/newsletter/"
                 />
   </url>
   
