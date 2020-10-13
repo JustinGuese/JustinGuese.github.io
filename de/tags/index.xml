@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 29 Sep 2020 07:10:46 +0200</lastBuildDate><atom:link href="https://www.datafortress.cloud/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Oct 2020 11:10:07 +0600</lastBuildDate><atom:link href="https://www.datafortress.cloud/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>https://www.datafortress.cloud/de/tags/news/</link>
+      <pubDate>Tue, 13 Oct 2020 11:10:07 +0600</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/tags/news/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>arch linux</title>
       <link>https://www.datafortress.cloud/de/tags/arch-linux/</link>
@@ -112,15 +121,6 @@
       <pubDate>Thu, 24 Sep 2020 11:10:07 +0600</pubDate>
       
       <guid>https://www.datafortress.cloud/de/tags/augmented-reality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://www.datafortress.cloud/de/tags/news/</link>
-      <pubDate>Thu, 24 Sep 2020 11:10:07 +0600</pubDate>
-      
-      <guid>https://www.datafortress.cloud/de/tags/news/</guid>
       <description></description>
     </item>
     
