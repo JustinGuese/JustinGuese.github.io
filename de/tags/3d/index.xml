@@ -6,7 +6,11 @@
     <description>Recent content in 3D on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 24 Sep 2020 11:10:07 +0600</lastBuildDate><atom:link href="https://www.datafortress.cloud/de/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Sep 2020 11:10:07 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.datafortress.cloud/de/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Wie man 3D-Modelle in Websites und Schnellansichten für Android und iOS integriert</title>
       <link>https://www.datafortress.cloud/de/blog/3d-model-integration/</link>

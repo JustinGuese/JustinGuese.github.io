@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/blog/</loc>
-    <lastmod>2020-10-14T14:02:22+02:00</lastmod>
+    <lastmod>2020-12-04T19:22:26+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +15,81 @@
                 hreflang="de"
                 href="https://www.datafortress.cloud/de/blog/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/</loc>
+    <lastmod>2020-12-04T19:22:26+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2020-12-04/</loc>
+    <lastmod>2020-12-04T19:12:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2020-12-03/</loc>
+    <lastmod>2020-12-04T19:12:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2020-12-02/</loc>
+    <lastmod>2020-12-04T19:12:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2020-12-01/</loc>
+    <lastmod>2020-12-04T19:12:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2020-11-30/</loc>
+    <lastmod>2020-12-04T19:12:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2020-11-29/</loc>
+    <lastmod>2020-12-04T19:22:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2020-11-28/</loc>
+    <lastmod>2020-12-04T19:22:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2020-11-27/</loc>
+    <lastmod>2020-12-04T19:22:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2020-11-26/</loc>
+    <lastmod>2020-12-04T19:22:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2020-11-25/</loc>
+    <lastmod>2020-12-04T19:22:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2020-11-24/</loc>
+    <lastmod>2020-12-04T19:22:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2020-11-23/</loc>
+    <lastmod>2020-12-04T19:22:26+01:00</lastmod>
   </url>
   
   <url>
@@ -29,21 +104,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.datafortress.cloud/de/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/de/</loc>
-    <lastmod>2020-10-14T14:02:22+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/"
                 />
   </url>
   
@@ -488,6 +548,21 @@
   </url>
   
   <url>
+    <loc>https://www.datafortress.cloud/de/categories/cloud/</loc>
+    <lastmod>2020-09-29T11:44:17+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/categories/cloud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/categories/cloud/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.datafortress.cloud/de/categories/cloud-computing/</loc>
     <lastmod>2020-09-29T11:44:17+02:00</lastmod>
   </url>
@@ -749,21 +824,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.datafortress.cloud/de/categories/business/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/de/categories/cloud/</loc>
-    <lastmod>2020-09-29T11:44:17+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/categories/cloud/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/categories/cloud/"
                 />
   </url>
   

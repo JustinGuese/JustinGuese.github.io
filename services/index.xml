@@ -6,7 +6,11 @@
     <description>Recent content in Services - Cloud, Big-Data, AI services for your company on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate><atom:link href="https://www.datafortress.cloud/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jul 2018 18:19:33 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.datafortress.cloud/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Cloud</title>
       <link>https://www.datafortress.cloud/services/cloud/</link>

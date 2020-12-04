@@ -6,6 +6,10 @@
     <description>Recent content in Kontakt - jetzt eine gratis 15 minütige Beratung sichern on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 12 Jul 2020 18:19:33 +0600</lastBuildDate><atom:link href="https://www.datafortress.cloud/de/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jul 2020 18:19:33 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.datafortress.cloud/de/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

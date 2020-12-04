@@ -5,7 +5,11 @@
     <link>https://www.datafortress.cloud/author/</link>
     <description>Recent content in Authors on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.datafortress.cloud/author/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://www.datafortress.cloud/author/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Justin Guese</title>
       <link>https://www.datafortress.cloud/author/justin-guese/</link>
