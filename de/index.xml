@@ -6,10 +6,19 @@
     <description>Recent content on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Tue, 15 Dec 2020 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Dec 2020 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech News vom 2020-12-16</title>
+      <link>https://www.datafortress.cloud/de/blog/technews_2020-12-16/</link>
+      <pubDate>Wed, 16 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/technews_2020-12-16/</guid>
+      <description>DATAFORTRESS Tech News vom 2020-12-16 Dieser Twitter-Thread folgt dem unternehmensweiten Jahresendmeeting von Facebook twitter.</description>
+    </item>
     
     <item>
       <title>Tech News vom 2020-12-15</title>
