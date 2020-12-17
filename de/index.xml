@@ -6,10 +6,19 @@
     <description>Recent content on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 16 Dec 2020 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Dec 2020 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech News vom 2020-12-17</title>
+      <link>https://www.datafortress.cloud/de/blog/technews_2020-12-17/</link>
+      <pubDate>Thu, 17 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/technews_2020-12-17/</guid>
+      <description>DATAFORTRESS Tech News vom 2020-12-17 Amazon hat kürzlich eine Marke namens &amp;ldquo;Made for You&amp;rdquo; vorgestellt, die maßgeschneiderte Kleidung herstellt www.</description>
+    </item>
     
     <item>
       <title>Tech News vom 2020-12-16</title>
