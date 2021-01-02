@@ -6,10 +6,19 @@
     <description>Recent content on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 23 Dec 2020 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Dec 2020 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech News vom 2020-12-27</title>
+      <link>https://www.datafortress.cloud/de/blog/technews_2020-12-27/</link>
+      <pubDate>Sun, 27 Dec 2020 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/technews_2020-12-27/</guid>
+      <description>DATAFORTRESS Tech News vom 2020-12-27 Elon Musk hat während der Einführung des Model 3 im Jahr 2017 versucht, Tesla an Apple zu verkaufen www.</description>
+    </item>
     
     <item>
       <title>Tech News vom 2020-12-23</title>
