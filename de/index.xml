@@ -6,10 +6,19 @@
     <description>Recent content on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 27 Dec 2020 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jan 2021 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech News vom 2021-01-02</title>
+      <link>https://www.datafortress.cloud/de/blog/technews_2021-01-02/</link>
+      <pubDate>Sat, 02 Jan 2021 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/technews_2021-01-02/</guid>
+      <description>DATAFORTRESS Tech News vom 2021-01-02 Die Systeme von Microsoft wurden von Hackern infiltriert, die Quellcode aus einer Reihe von Repositories einsehen konnten www.</description>
+    </item>
     
     <item>
       <title>Tech News vom 2020-12-27</title>
