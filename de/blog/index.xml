@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 06 Jan 2021 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech News vom 2021-01-07</title>
+      <link>https://www.datafortress.cloud/de/blog/technews_2021-01-07/</link>
+      <pubDate>Thu, 07 Jan 2021 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/technews_2021-01-07/</guid>
+      <description>DATAFORTRESS Tech News vom 2021-01-07 Microsoft hat ein Patent für ein Verfahren angemeldet, das soziale Daten wie Bilder, Sprachdaten, Social-Media-Posts und andere schriftliche Medien verwendet, um ein Profil einer Person zu erstellen und einen Chatbot mit der Persönlichkeit dieser Person zu erzeugen technuws.</description>
+    </item>
     
     <item>
       <title>Tech News vom 2021-01-06</title>
