@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 11 Jan 2021 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jan 2021 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech News vom 2021-01-12</title>
+      <link>https://www.datafortress.cloud/de/blog/technews_2021-01-12/</link>
+      <pubDate>Tue, 12 Jan 2021 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/technews_2021-01-12/</guid>
+      <description>DATAFORTRESS Tech News vom 2021-01-12 Letzte Woche hat Boston Dynamics ein Video veröffentlicht, in dem seine Roboter tanzen spectrum.</description>
+    </item>
     
     <item>
       <title>Tech News vom 2021-01-11</title>
