@@ -6,10 +6,19 @@
     <description>Recent content on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 15 Jan 2021 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jan 2021 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech News vom 2021-01-18</title>
+      <link>https://www.datafortress.cloud/de/blog/technews_2021-01-18/</link>
+      <pubDate>Mon, 18 Jan 2021 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/technews_2021-01-18/</guid>
+      <description>DATAFORTRESS Tech News vom 2021-01-18 DuckDuckGo verzeichnete kürzlich mehr als 100 Millionen Suchanfragen von Nutzern an einem Tag www.</description>
+    </item>
     
     <item>
       <title>Tech News vom 2021-01-15</title>
