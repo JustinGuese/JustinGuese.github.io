@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Wed, 14 Oct 2020 11:10:07 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jan 2021 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://www.datafortress.cloud/de/categories/tutorial/</link>
+      <pubDate>Sun, 24 Jan 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/categories/tutorial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>News</title>
@@ -35,15 +44,6 @@
       <pubDate>Tue, 29 Sep 2020 07:10:46 +0200</pubDate>
       
       <guid>https://www.datafortress.cloud/de/categories/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tutorial</title>
-      <link>https://www.datafortress.cloud/de/categories/tutorial/</link>
-      <pubDate>Tue, 29 Sep 2020 07:10:46 +0200</pubDate>
-      
-      <guid>https://www.datafortress.cloud/de/categories/tutorial/</guid>
       <description></description>
     </item>
     

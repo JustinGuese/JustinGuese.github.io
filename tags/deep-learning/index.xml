@@ -6,10 +6,19 @@
     <description>Recent content in deep learning on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2020 07:10:46 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jan 2021 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to set up Anaconda and Jupyter Notebook the right way</title>
+      <link>https://www.datafortress.cloud/blog/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way/</link>
+      <pubDate>Sun, 24 Jan 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/blog/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way/</guid>
+      <description>If Anaconda (conda) and Jupyter Notebook (Jupyter Lab) are set up the right way the combination of them can become the perfect team, where you are able to easily switch between Deep Learning conda environments.</description>
+    </item>
     
     <item>
       <title>How To - Ditching Ubuntu in favor of Arch Linux for a Deep Learning Workstation</title>

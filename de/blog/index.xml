@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>So richten Sie Anaconda und Jupyter Notebook richtig ein</title>
+      <link>https://www.datafortress.cloud/de/blog/so-richten-sie-anaconda-und-jupyter-notebook-richtig-ein/</link>
+      <pubDate>Sun, 24 Jan 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/so-richten-sie-anaconda-und-jupyter-notebook-richtig-ein/</guid>
+      <description>Wenn Anaconda (conda) und Jupyter Notebook (Jupyter Lab) richtig eingerichtet sind, kann die Kombination aus beiden ein perfektes Team werden, in dem man leicht zwischen den Deep Learning conda Umgebungen wechseln kann.</description>
+    </item>
+    
+    <item>
       <title>Tech News vom 2021-01-22</title>
       <link>https://www.datafortress.cloud/de/blog/technews_2021-01-22/</link>
       <pubDate>Fri, 22 Jan 2021 11:00:00 +0000</pubDate>

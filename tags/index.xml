@@ -6,10 +6,46 @@
     <description>Recent content in Tags on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2020 07:10:46 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jan 2021 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>anaconda</title>
+      <link>https://www.datafortress.cloud/tags/anaconda/</link>
+      <pubDate>Sun, 24 Jan 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/tags/anaconda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learning</title>
+      <link>https://www.datafortress.cloud/tags/deep-learning/</link>
+      <pubDate>Sun, 24 Jan 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jupyter notebook</title>
+      <link>https://www.datafortress.cloud/tags/jupyter-notebook/</link>
+      <pubDate>Sun, 24 Jan 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/tags/jupyter-notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://www.datafortress.cloud/tags/tutorial/</link>
+      <pubDate>Sun, 24 Jan 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/tags/tutorial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>arch linux</title>
@@ -26,15 +62,6 @@
       <pubDate>Tue, 29 Sep 2020 07:10:46 +0200</pubDate>
       
       <guid>https://www.datafortress.cloud/tags/big-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>deep learning</title>
-      <link>https://www.datafortress.cloud/tags/deep-learning/</link>
-      <pubDate>Tue, 29 Sep 2020 07:10:46 +0200</pubDate>
-      
-      <guid>https://www.datafortress.cloud/tags/deep-learning/</guid>
       <description></description>
     </item>
     
@@ -89,15 +116,6 @@
       <pubDate>Tue, 29 Sep 2020 07:10:46 +0200</pubDate>
       
       <guid>https://www.datafortress.cloud/tags/tensorflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tutorial</title>
-      <link>https://www.datafortress.cloud/tags/tutorial/</link>
-      <pubDate>Tue, 29 Sep 2020 07:10:46 +0200</pubDate>
-      
-      <guid>https://www.datafortress.cloud/tags/tutorial/</guid>
       <description></description>
     </item>
     

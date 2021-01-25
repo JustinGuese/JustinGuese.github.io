@@ -3,6 +3,126 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.datafortress.cloud/tags/anaconda/</loc>
+    <lastmod>2021-01-25T10:48:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/blog/</loc>
+    <lastmod>2021-01-25T10:48:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/categories/</loc>
+    <lastmod>2021-01-25T10:48:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/</loc>
+    <lastmod>2021-01-25T10:48:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/tags/deep-learning/</loc>
+    <lastmod>2021-01-25T10:48:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/deep-learning/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/blog/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way/</loc>
+    <lastmod>2021-01-25T10:48:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/tags/jupyter-notebook/</loc>
+    <lastmod>2021-01-25T10:48:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/tags/</loc>
+    <lastmod>2021-01-25T10:48:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/tags/tutorial/</loc>
+    <lastmod>2021-01-25T10:48:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/tutorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/tutorial/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/categories/tutorial/</loc>
+    <lastmod>2021-01-25T10:48:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/categories/tutorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/categories/tutorial/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.datafortress.cloud/tags/arch-linux/</loc>
     <lastmod>2020-09-29T14:13:37+02:00</lastmod>
     <xhtml:link
@@ -44,66 +164,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.datafortress.cloud/categories/big-data/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/blog/</loc>
-    <lastmod>2020-09-29T14:13:37+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/categories/</loc>
-    <lastmod>2020-09-29T14:13:37+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/</loc>
-    <lastmod>2020-10-09T16:10:25+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/tags/deep-learning/</loc>
-    <lastmod>2020-09-29T14:13:37+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/tags/deep-learning/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/tags/deep-learning/"
                 />
   </url>
   
@@ -208,21 +268,6 @@
   </url>
   
   <url>
-    <loc>https://www.datafortress.cloud/tags/</loc>
-    <lastmod>2020-09-29T14:13:37+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.datafortress.cloud/tags/tensorflow/</loc>
     <lastmod>2020-09-29T14:13:37+02:00</lastmod>
     <xhtml:link
@@ -234,36 +279,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/tensorflow/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/tags/tutorial/</loc>
-    <lastmod>2020-09-29T14:13:37+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/tags/tutorial/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/tags/tutorial/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/categories/tutorial/</loc>
-    <lastmod>2020-09-29T14:13:37+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/categories/tutorial/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/categories/tutorial/"
                 />
   </url>
   

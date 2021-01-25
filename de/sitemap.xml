@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/blog/</loc>
-    <lastmod>2021-01-25T11:00:00+00:00</lastmod>
+    <lastmod>2021-01-25T12:16:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/</loc>
-    <lastmod>2021-01-25T11:00:00+00:00</lastmod>
+    <lastmod>2021-01-25T12:16:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,7 +34,82 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/blog/technews_2021-01-25/</loc>
-    <lastmod>2021-01-25T11:00:00+00:00</lastmod>
+    <lastmod>2021-01-25T12:16:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/categories/</loc>
+    <lastmod>2021-01-25T10:55:27+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/tags/conda-environment/</loc>
+    <lastmod>2021-01-25T10:55:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/tags/installation/</loc>
+    <lastmod>2021-01-25T10:55:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/tags/jupyter-lab/</loc>
+    <lastmod>2021-01-25T10:55:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/tags/juypter-notebook/</loc>
+    <lastmod>2021-01-25T10:55:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/tags/python/</loc>
+    <lastmod>2021-01-25T10:55:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/so-richten-sie-anaconda-und-jupyter-notebook-richtig-ein/</loc>
+    <lastmod>2021-01-25T10:55:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/tags/</loc>
+    <lastmod>2021-01-25T10:55:27+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/categories/tutorial/</loc>
+    <lastmod>2021-01-25T10:55:27+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/categories/tutorial/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/categories/tutorial/"
+                />
   </url>
   
   <url>
@@ -468,21 +543,6 @@
   </url>
   
   <url>
-    <loc>https://www.datafortress.cloud/de/categories/</loc>
-    <lastmod>2020-10-14T14:02:22+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.datafortress.cloud/de/tags/news/</loc>
     <lastmod>2020-10-14T14:02:22+02:00</lastmod>
   </url>
@@ -490,21 +550,6 @@
   <url>
     <loc>https://www.datafortress.cloud/de/categories/news/</loc>
     <lastmod>2020-10-14T14:02:22+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/de/tags/</loc>
-    <lastmod>2020-10-14T14:02:22+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/tags/"
-                />
   </url>
   
   <url>
@@ -779,21 +824,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.datafortress.cloud/de/tags/tutorial/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/de/categories/tutorial/</loc>
-    <lastmod>2020-09-29T14:13:37+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/categories/tutorial/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/categories/tutorial/"
                 />
   </url>
   
