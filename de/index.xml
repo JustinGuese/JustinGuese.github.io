@@ -6,10 +6,19 @@
     <description>Recent content on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 22 Jan 2021 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jan 2021 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech News vom 2021-01-25</title>
+      <link>https://www.datafortress.cloud/de/blog/technews_2021-01-25/</link>
+      <pubDate>Mon, 25 Jan 2021 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/technews_2021-01-25/</guid>
+      <description>DATAFORTRESS Tech News vom 2021-01-25 Lyft hat im September eine neue Funktion für Fahrer eingeführt, den sogenannten Prioritätsmodus, der den Fahrern mehr Fahrten für 10 % weniger Lohn bietet www.</description>
+    </item>
     
     <item>
       <title>Tech News vom 2021-01-22</title>
