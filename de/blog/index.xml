@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 25 Jan 2021 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jan 2021 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech News vom 2021-01-26</title>
+      <link>https://www.datafortress.cloud/de/blog/technews_2021-01-26/</link>
+      <pubDate>Tue, 26 Jan 2021 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/technews_2021-01-26/</guid>
+      <description>DATAFORTRESS Tech News vom 2021-01-26 Die nächste Apple Watch wird Berichten zufolge einen Blutzucker-Sensor haben electrek.</description>
+    </item>
     
     <item>
       <title>Tech News vom 2021-01-25</title>
