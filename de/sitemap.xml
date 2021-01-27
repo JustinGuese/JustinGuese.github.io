@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/blog/</loc>
-    <lastmod>2021-01-27T12:16:31+01:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/</loc>
-    <lastmod>2021-01-27T12:16:31+01:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,18 +38,58 @@
   </url>
   
   <url>
-    <loc>https://www.datafortress.cloud/de/blog/technews_2021-01-26/</loc>
-    <lastmod>2021-01-26T12:16:20+01:00</lastmod>
+    <loc>https://www.datafortress.cloud/de/tags/ai-investing/</loc>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/ai-investing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/ai-investing/"
+                />
   </url>
   
   <url>
-    <loc>https://www.datafortress.cloud/de/blog/technews_2021-01-25/</loc>
-    <lastmod>2021-01-25T12:16:06+01:00</lastmod>
+    <loc>https://www.datafortress.cloud/de/tags/algorithmic-trading/</loc>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/algorithmic-trading/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/algorithmic-trading/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/categories/algorithmic-trading/</loc>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/categories/algorithmic-trading/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/categories/algorithmic-trading/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/anreichern-von-aktiendaten-fur-ihr-algorithmisches-python-handelsmodell/</loc>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.datafortress.cloud/de/categories/</loc>
-    <lastmod>2021-01-25T10:55:27+00:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,6 +100,91 @@
                 hreflang="de"
                 href="https://www.datafortress.cloud/de/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/tags/finance/</loc>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/finance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/finance/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/categories/finance/</loc>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/categories/finance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/categories/finance/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/tags/investing/</loc>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/investing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/investing/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/tags/stocks/</loc>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/stocks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/stocks/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/tags/</loc>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2021-01-26/</loc>
+    <lastmod>2021-01-26T12:16:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2021-01-25/</loc>
+    <lastmod>2021-01-25T12:16:06+01:00</lastmod>
   </url>
   
   <url>
@@ -90,21 +215,6 @@
   <url>
     <loc>https://www.datafortress.cloud/de/blog/so-richten-sie-anaconda-und-jupyter-notebook-richtig-ein/</loc>
     <lastmod>2021-01-25T10:55:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/de/tags/</loc>
-    <lastmod>2021-01-25T10:55:27+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/tags/"
-                />
   </url>
   
   <url>
@@ -1150,36 +1260,6 @@
   <url>
     <loc>https://www.datafortress.cloud/de/blog/technews_2020-08-24/</loc>
     <lastmod>2020-12-15T15:44:25+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/de/tags/algorithmic-trading/</loc>
-    <lastmod>2020-09-29T11:44:17+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/tags/algorithmic-trading/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/tags/algorithmic-trading/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/de/categories/algorithmic-trading/</loc>
-    <lastmod>2020-09-29T11:44:17+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.datafortress.cloud/categories/algorithmic-trading/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.datafortress.cloud/de/categories/algorithmic-trading/"
-                />
   </url>
   
   <url>

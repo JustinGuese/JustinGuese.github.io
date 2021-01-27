@@ -4,12 +4,22 @@
   
   <url>
     <loc>https://www.datafortress.cloud/tags/ai-investing/</loc>
-    <lastmod>2021-01-27T15:14:39+00:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/ai-investing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/ai-investing/"
+                />
   </url>
   
   <url>
     <loc>https://www.datafortress.cloud/tags/algorithmic-trading/</loc>
-    <lastmod>2021-01-27T15:14:39+00:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -24,7 +34,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/categories/algorithmic-trading/</loc>
-    <lastmod>2021-01-27T15:14:39+00:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -39,7 +49,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/blog/</loc>
-    <lastmod>2021-01-27T15:14:39+00:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -54,7 +64,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/categories/</loc>
-    <lastmod>2021-01-27T15:14:39+00:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -69,7 +79,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/</loc>
-    <lastmod>2021-01-27T15:14:39+00:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -84,37 +94,77 @@
   
   <url>
     <loc>https://www.datafortress.cloud/blog/enhancing-stock-data-for-your-python-algorithmic-trading-model/</loc>
-    <lastmod>2021-01-27T15:14:39+00:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.datafortress.cloud/tags/finance/</loc>
-    <lastmod>2021-01-27T15:14:39+00:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/finance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/finance/"
+                />
   </url>
   
   <url>
     <loc>https://www.datafortress.cloud/categories/finance/</loc>
-    <lastmod>2021-01-27T15:14:39+00:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/categories/finance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/categories/finance/"
+                />
   </url>
   
   <url>
     <loc>https://www.datafortress.cloud/tags/investing/</loc>
-    <lastmod>2021-01-27T15:14:39+00:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/investing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/investing/"
+                />
   </url>
   
   <url>
     <loc>https://www.datafortress.cloud/tags/stock/</loc>
-    <lastmod>2021-01-27T15:14:39+00:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.datafortress.cloud/tags/stocks/</loc>
-    <lastmod>2021-01-27T15:14:39+00:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.datafortress.cloud/de/tags/stocks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.datafortress.cloud/tags/stocks/"
+                />
   </url>
   
   <url>
     <loc>https://www.datafortress.cloud/tags/</loc>
-    <lastmod>2021-01-27T15:14:39+00:00</lastmod>
+    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"

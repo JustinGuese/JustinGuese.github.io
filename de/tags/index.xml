@@ -6,10 +6,55 @@
     <description>Recent content in Tags on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sun, 24 Jan 2021 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jan 2021 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ai investing</title>
+      <link>https://www.datafortress.cloud/de/tags/ai-investing/</link>
+      <pubDate>Tue, 26 Jan 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/tags/ai-investing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>algorithmic trading</title>
+      <link>https://www.datafortress.cloud/de/tags/algorithmic-trading/</link>
+      <pubDate>Tue, 26 Jan 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/tags/algorithmic-trading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finance</title>
+      <link>https://www.datafortress.cloud/de/tags/finance/</link>
+      <pubDate>Tue, 26 Jan 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>investing</title>
+      <link>https://www.datafortress.cloud/de/tags/investing/</link>
+      <pubDate>Tue, 26 Jan 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/tags/investing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stocks</title>
+      <link>https://www.datafortress.cloud/de/tags/stocks/</link>
+      <pubDate>Tue, 26 Jan 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/tags/stocks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>conda environment</title>
@@ -197,15 +242,6 @@
       <pubDate>Thu, 17 Sep 2020 11:10:07 +0600</pubDate>
       
       <guid>https://www.datafortress.cloud/de/tags/serverless/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>algorithmic-trading</title>
-      <link>https://www.datafortress.cloud/de/tags/algorithmic-trading/</link>
-      <pubDate>Sun, 23 Aug 2020 22:00:00 +0000</pubDate>
-      
-      <guid>https://www.datafortress.cloud/de/tags/algorithmic-trading/</guid>
       <description></description>
     </item>
     
