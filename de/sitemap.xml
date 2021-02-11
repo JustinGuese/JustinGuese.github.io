@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/blog/</loc>
-    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <lastmod>2021-02-11T13:11:56+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/</loc>
-    <lastmod>2021-01-27T15:25:33+00:00</lastmod>
+    <lastmod>2021-02-11T13:11:56+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +30,31 @@
                 hreflang="de"
                 href="https://www.datafortress.cloud/de/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2021-02-11/</loc>
+    <lastmod>2021-02-11T13:11:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2021-02-10/</loc>
+    <lastmod>2021-02-10T12:15:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2021-02-09/</loc>
+    <lastmod>2021-02-09T14:08:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2021-02-08/</loc>
+    <lastmod>2021-02-08T17:42:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2021-02-06/</loc>
+    <lastmod>2021-02-06T12:17:07+01:00</lastmod>
   </url>
   
   <url>
