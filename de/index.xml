@@ -6,10 +6,19 @@
     <description>Recent content on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 11 Feb 2021 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Feb 2021 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech News vom 2021-02-12</title>
+      <link>https://www.datafortress.cloud/de/blog/technews_2021-02-12/</link>
+      <pubDate>Fri, 12 Feb 2021 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/technews_2021-02-12/</guid>
+      <description>DATAFORTRESS Tech News vom 2021-02-12 </description>
+    </item>
     
     <item>
       <title>Tech News vom 2021-02-11</title>
