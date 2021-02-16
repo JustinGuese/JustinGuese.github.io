@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/blog/</loc>
-    <lastmod>2021-02-15T10:41:11+01:00</lastmod>
+    <lastmod>2021-02-16T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://www.datafortress.cloud/de/</loc>
-    <lastmod>2021-02-15T10:41:11+01:00</lastmod>
+    <lastmod>2021-02-16T11:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +30,11 @@
                 hreflang="de"
                 href="https://www.datafortress.cloud/de/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.datafortress.cloud/de/blog/technews_2021-02-16/</loc>
+    <lastmod>2021-02-16T11:00:00+00:00</lastmod>
   </url>
   
   <url>
