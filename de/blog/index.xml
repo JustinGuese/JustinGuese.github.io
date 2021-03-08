@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Fri, 05 Mar 2021 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Mar 2021 11:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.datafortress.cloud/de/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech News vom 2021-03-08</title>
+      <link>https://www.datafortress.cloud/de/blog/technews_2021-03-08/</link>
+      <pubDate>Mon, 08 Mar 2021 11:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/de/blog/technews_2021-03-08/</guid>
+      <description>DATAFORTRESS Tech News vom 2021-03-08 💻 Große Tech-Unternehmen &amp;amp; Startups Rutsch rüber, SolarWinds: Die E-Mails von 30.</description>
+    </item>
     
     <item>
       <title>Tech News vom 2021-03-05</title>
