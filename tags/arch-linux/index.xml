@@ -6,7 +6,11 @@
     <description>Recent content in arch linux on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2020 07:10:46 +0200</lastBuildDate><atom:link href="https://www.datafortress.cloud/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Sep 2020 07:10:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.datafortress.cloud/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>How To - Ditching Ubuntu in favor of Arch Linux for a Deep Learning Workstation</title>
       <link>https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/</link>
