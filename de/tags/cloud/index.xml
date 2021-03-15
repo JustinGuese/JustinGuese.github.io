@@ -6,11 +6,7 @@
     <description>Recent content in Cloud on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Thu, 17 Sep 2020 11:10:07 +0600</lastBuildDate>
-    
-	<atom:link href="https://www.datafortress.cloud/de/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 17 Sep 2020 11:10:07 +0600</lastBuildDate><atom:link href="https://www.datafortress.cloud/de/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Von Wordpress zu serverlosen, unhackbaren statischen Hochgeschwindigkeits-Webseiten</title>
       <link>https://www.datafortress.cloud/de/blog/wordpress-zu-serverlos-unhackbare-webseite/</link>

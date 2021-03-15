@@ -6,11 +6,7 @@
     <description>Recent content in Tags on Datafortress.cloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jan 2021 23:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.datafortress.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 26 Jan 2021 23:00:00 +0000</lastBuildDate><atom:link href="https://www.datafortress.cloud/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ai investing</title>
       <link>https://www.datafortress.cloud/tags/ai-investing/</link>
@@ -44,15 +40,6 @@
       <pubDate>Tue, 26 Jan 2021 23:00:00 +0000</pubDate>
       
       <guid>https://www.datafortress.cloud/tags/investing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stock</title>
-      <link>https://www.datafortress.cloud/tags/stock/</link>
-      <pubDate>Tue, 26 Jan 2021 23:00:00 +0000</pubDate>
-      
-      <guid>https://www.datafortress.cloud/tags/stock/</guid>
       <description></description>
     </item>
     
@@ -251,6 +238,15 @@
       <pubDate>Sun, 23 Aug 2020 22:00:00 +0000</pubDate>
       
       <guid>https://www.datafortress.cloud/tags/facebook-prophet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stock</title>
+      <link>https://www.datafortress.cloud/tags/stock/</link>
+      <pubDate>Sun, 23 Aug 2020 22:00:00 +0000</pubDate>
+      
+      <guid>https://www.datafortress.cloud/tags/stock/</guid>
       <description></description>
     </item>
     

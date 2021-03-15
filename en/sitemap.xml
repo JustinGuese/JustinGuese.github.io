@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.datafortress.cloud/tags/ai-investing/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/ai-investing/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/algorithmic-trading/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -30,9 +27,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/algorithmic-trading/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/categories/algorithmic-trading/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -45,9 +40,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/categories/algorithmic-trading/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/blog/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -60,9 +53,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/categories/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -75,11 +66,9 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/</loc>
-    <lastmod>2021-03-09T17:45:23+01:00</lastmod>
+    <lastmod>2021-03-15T15:16:22+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -90,14 +79,10 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/blog/enhancing-stock-data-for-your-python-algorithmic-trading-model/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/finance/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -110,9 +95,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/finance/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/categories/finance/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -125,9 +108,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/categories/finance/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/investing/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -140,14 +121,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/investing/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.datafortress.cloud/tags/stock/</loc>
-    <lastmod>2021-03-09T17:45:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/stocks/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -160,9 +134,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/stocks/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -175,14 +147,10 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/anaconda/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/deep-learning/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -195,19 +163,13 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/deep-learning/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/blog/how-to-set-up-anaconda-and-jupyter-notebook-the-right-way/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/jupyter-notebook/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/tutorial/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -220,9 +182,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/tutorial/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/categories/tutorial/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -235,9 +195,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/categories/tutorial/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/arch-linux/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -250,9 +208,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/arch-linux/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/big-data/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -265,9 +221,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/big-data/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/categories/big-data/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -280,9 +234,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/categories/big-data/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/encryption/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -295,9 +247,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/encryption/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/encypt-data-at-rest/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -310,19 +260,13 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/encypt-data-at-rest/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/blog/howto-arch-linux-deeplearning-workstation/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/blog/howto-install-arch-linux-the-easy-way/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/linux/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -335,9 +279,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/linux/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/categories/linux/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -350,9 +292,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/categories/linux/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/machine-learning/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -365,9 +305,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/machine-learning/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/reinforcement-learning/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -380,9 +318,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/reinforcement-learning/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/tensorflow/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -395,9 +331,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/tensorflow/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/3d/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -410,9 +344,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/3d/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/augmented-reality/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -425,9 +357,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/augmented-reality/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/categories/augmented-reality/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -440,9 +370,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/categories/augmented-reality/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/blog/3d-model-integration/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -455,9 +383,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/blog/3d-model-integration/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/websites/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -470,9 +396,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/websites/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/cloud/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -485,14 +409,10 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/cloud/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/blog/wordpress-to-serverless-highspeed-scalable-unhackable/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/serverless/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -505,9 +425,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/serverless/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/categories/serverless/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -520,9 +438,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/categories/serverless/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/aws/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -535,14 +451,10 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/aws/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/categories/aws/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/aws-lambda/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -555,14 +467,10 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/aws-lambda/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/cloud-computing/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/facebook-prophet/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -575,14 +483,10 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/facebook-prophet/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/blog/how-to-deploy-an-automated-trading-bot-using-the-facebook-prophet-machine-learning-model-to-aws-lambda-serverless/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/categories/machine-learning/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -595,14 +499,13 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/categories/machine-learning/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.datafortress.cloud/tags/stock/</loc>
+    <lastmod>2021-03-09T17:45:23+01:00</lastmod>
+  </url><url>
     <loc>https://www.datafortress.cloud/blog/the-5-typical-applications-of-augmented-reality/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/content/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -615,9 +518,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/content/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/content/english/pages/impressum/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -630,9 +531,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/content/english/pages/impressum/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/content/english/pages/privacy-policy/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -645,9 +544,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/content/english/pages/privacy-policy/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/contact/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -660,9 +557,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/content/english/pages/newsletter/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -675,9 +570,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/content/english/pages/newsletter/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/pricing/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -690,9 +583,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/pricing/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/categories/computer-vision/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -705,9 +596,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/categories/computer-vision/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/face-detection/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -720,9 +609,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/face-detection/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/blog/face-detection-using-mtcnn/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -735,9 +622,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/blog/face-detection-using-mtcnn/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/mtcnn/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -750,9 +635,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/mtcnn/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/neuronal-networks/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -765,9 +648,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/neuronal-networks/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/business/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -780,9 +661,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/business/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/categories/business/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -795,9 +674,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/categories/business/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/categories/cloud/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -810,9 +687,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/categories/cloud/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/cloud-storage/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -825,9 +700,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/cloud-storage/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/tags/storage/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -840,9 +713,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/tags/storage/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/blog/top-6-cloud-storage-solutions/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -855,9 +726,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/blog/top-6-cloud-storage-solutions/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/team/justin-guese/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -870,11 +739,9 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/team/justin-guese/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/services/cloud/</loc>
-    <lastmod>2021-03-09T17:45:23+01:00</lastmod>
+    <lastmod>2021-03-15T15:16:22+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -885,9 +752,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/services/cloud/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/services/data-science-data-engineering/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -900,9 +765,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/services/data-science-data-engineering/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/services/financial-data-driven-planning/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -915,9 +778,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/services/financial-data-driven-planning/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/services/virtual-augmented-reality/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -930,9 +791,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/services/virtual-augmented-reality/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/services/business-consulting1/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -945,9 +804,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/services/business-consulting1/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/services/translations-deep-learning/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -960,9 +817,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/services/translations-deep-learning/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/project/logo-creation/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -975,9 +830,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/project/logo-creation/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/project/big-data-analytics/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -990,9 +843,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/project/big-data-analytics/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/project/cloud-compliance/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -1005,9 +856,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/project/cloud-compliance/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/project/digital-twin/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -1020,9 +869,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/project/digital-twin/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/project/cloud-group-it/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -1035,9 +882,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/project/cloud-group-it/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/project/ar-porsche-viewer/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -1050,9 +895,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/project/ar-porsche-viewer/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/project/porsche-ar-website/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -1065,9 +908,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/project/porsche-ar-website/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/about/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -1080,9 +921,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/project/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -1095,9 +934,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/project/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/team/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -1110,9 +947,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/team/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/services/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -1125,9 +960,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/services/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/project/unraceable-virtual-reality-simulator/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -1140,9 +973,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/project/unraceable-virtual-reality-simulator/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/project/360-car-sales-virtual-testdrives/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -1155,9 +986,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/project/360-car-sales-virtual-testdrives/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/project/360-virtual-tours-real-estate/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -1170,9 +999,7 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/project/360-virtual-tours-real-estate/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/author/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -1185,14 +1012,10 @@
                 hreflang="en"
                 href="https://www.datafortress.cloud/author/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/project/serverless-static-website/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.datafortress.cloud/author/justin-guese/</loc>
     <lastmod>2021-03-09T17:45:23+01:00</lastmod>
     <xhtml:link
@@ -1206,5 +1029,4 @@
                 href="https://www.datafortress.cloud/author/justin-guese/"
                 />
   </url>
-  
 </urlset>
